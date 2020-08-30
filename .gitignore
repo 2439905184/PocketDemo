@@ -1,4 +1,6 @@
 #java
 *.class
-*.java
 *.dex
+/android
+/build
+

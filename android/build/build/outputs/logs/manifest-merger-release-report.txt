@@ -4,7 +4,7 @@ ADDED from F:\android_plugin\android\build\AndroidManifest.xml:2:1-73:12
 INJECTED from F:\android_plugin\android\build\AndroidManifest.xml:2:1-73:12
 INJECTED from F:\android_plugin\android\build\AndroidManifest.xml:2:1-73:12
 INJECTED from F:\android_plugin\android\build\AndroidManifest.xml:2:1-73:12
-MERGED from [GodotHelloPlugin-debug.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\565eadd82c0be2ca9132baf9a7705bc2\GodotHelloPlugin-debug\AndroidManifest.xml:2:1-17:12
+MERGED from [GodotHelloPlugin-debug.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0ff105f22741c9fc8abf6f64149cf963\GodotHelloPlugin-debug\AndroidManifest.xml:2:1-17:12
 MERGED from [godot-lib.release.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\94cba374a529e32e15017b9cb1f583e7\godot-lib.release\AndroidManifest.xml:2:1-22:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\72b4d95a0e8b43ee4215c0c4e8b0fb72\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5debf09d2541e0ccacc6adc6a4fdd105\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -70,8 +70,8 @@ ADDED from F:\android_plugin\android\build\AndroidManifest.xml:19:5-21:35
 		ADDED from F:\android_plugin\android\build\AndroidManifest.xml:21:9-32
 application
 ADDED from F:\android_plugin\android\build\AndroidManifest.xml:30:5-71:19
-MERGED from [GodotHelloPlugin-debug.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\565eadd82c0be2ca9132baf9a7705bc2\GodotHelloPlugin-debug\AndroidManifest.xml:11:5-15:19
-MERGED from [GodotHelloPlugin-debug.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\565eadd82c0be2ca9132baf9a7705bc2\GodotHelloPlugin-debug\AndroidManifest.xml:11:5-15:19
+MERGED from [GodotHelloPlugin-debug.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0ff105f22741c9fc8abf6f64149cf963\GodotHelloPlugin-debug\AndroidManifest.xml:11:5-15:19
+MERGED from [GodotHelloPlugin-debug.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0ff105f22741c9fc8abf6f64149cf963\GodotHelloPlugin-debug\AndroidManifest.xml:11:5-15:19
 MERGED from [godot-lib.release.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\94cba374a529e32e15017b9cb1f583e7\godot-lib.release\AndroidManifest.xml:18:5-20:19
 MERGED from [godot-lib.release.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\94cba374a529e32e15017b9cb1f583e7\godot-lib.release\AndroidManifest.xml:18:5-20:19
 MERGED from [androidx.core:core:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\947833f03979c6d84fcd9a8feba7ce42\core-1.0.0\AndroidManifest.xml:22:5-89
@@ -140,8 +140,8 @@ uses-sdk
 INJECTED from F:\android_plugin\android\build\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from F:\android_plugin\android\build\AndroidManifest.xml
 INJECTED from F:\android_plugin\android\build\AndroidManifest.xml
-MERGED from [GodotHelloPlugin-debug.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\565eadd82c0be2ca9132baf9a7705bc2\GodotHelloPlugin-debug\AndroidManifest.xml:7:5-9:41
-MERGED from [GodotHelloPlugin-debug.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\565eadd82c0be2ca9132baf9a7705bc2\GodotHelloPlugin-debug\AndroidManifest.xml:7:5-9:41
+MERGED from [GodotHelloPlugin-debug.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0ff105f22741c9fc8abf6f64149cf963\GodotHelloPlugin-debug\AndroidManifest.xml:7:5-9:41
+MERGED from [GodotHelloPlugin-debug.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0ff105f22741c9fc8abf6f64149cf963\GodotHelloPlugin-debug\AndroidManifest.xml:7:5-9:41
 MERGED from [godot-lib.release.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\94cba374a529e32e15017b9cb1f583e7\godot-lib.release\AndroidManifest.xml:7:5-9:41
 MERGED from [godot-lib.release.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\94cba374a529e32e15017b9cb1f583e7\godot-lib.release\AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\72b4d95a0e8b43ee4215c0c4e8b0fb72\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
@@ -205,11 +205,11 @@ INJECTED from F:\android_plugin\android\build\AndroidManifest.xml
 		ADDED from F:\android_plugin\android\build\AndroidManifest.xml
 		INJECTED from F:\android_plugin\android\build\AndroidManifest.xml
 meta-data#org.godotengine.plugin.v1.HelloGodot
-ADDED from [GodotHelloPlugin-debug.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\565eadd82c0be2ca9132baf9a7705bc2\GodotHelloPlugin-debug\AndroidManifest.xml:12:9-14:69
+ADDED from [GodotHelloPlugin-debug.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0ff105f22741c9fc8abf6f64149cf963\GodotHelloPlugin-debug\AndroidManifest.xml:12:9-14:69
 	android:value
-		ADDED from [GodotHelloPlugin-debug.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\565eadd82c0be2ca9132baf9a7705bc2\GodotHelloPlugin-debug\AndroidManifest.xml:14:13-66
+		ADDED from [GodotHelloPlugin-debug.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0ff105f22741c9fc8abf6f64149cf963\GodotHelloPlugin-debug\AndroidManifest.xml:14:13-66
 	android:name
-		ADDED from [GodotHelloPlugin-debug.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\565eadd82c0be2ca9132baf9a7705bc2\GodotHelloPlugin-debug\AndroidManifest.xml:13:13-64
+		ADDED from [GodotHelloPlugin-debug.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0ff105f22741c9fc8abf6f64149cf963\GodotHelloPlugin-debug\AndroidManifest.xml:13:13-64
 instrumentation
 ADDED from [godot-lib.release.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\94cba374a529e32e15017b9cb1f583e7\godot-lib.release\AndroidManifest.xml:11:5-15:57
 	android:label

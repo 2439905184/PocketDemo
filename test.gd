@@ -7,11 +7,13 @@ extends Node2D
 # warning-ignore:unused_signal
 signal a
 var has
+var _hello
 # Called when the node enters the scene tree for the first time.
 func _ready():
 	has=Engine.has_singleton("HelloGodot")
 	#OS.alert("有单例吗"+str(has))
 	$Label.text+=str(has)
+	_hello=Engine.get_singleton("HelloGodot")
 	pass # Replace with function body.
 
 
@@ -21,7 +23,7 @@ func _ready():
 
 
 func _on_test_pressed():
-	var _hello=Engine.get_singleton("HelloGodot")
+	
 	$Label2.text=str(_hello)
 	#print_tree_pretty()
 	if _hello:
@@ -30,6 +32,8 @@ func _on_test_pressed():
 		for i in array:
 			$Label3.text=str(i)
 		#hello.test()
+		var result=_hello.test2()
+		OS.alert(result)
 		pass
 		#hello.connect("on_test",self,"_test")
 	pass # Replace with function body.
@@ -37,5 +41,14 @@ func _on_test_pressed():
 func _test():
 	$Label3.text="HelloFromAndroidPlugin"
 	pass
-func _on_Node2D_a():
+
+func _on_test2_pressed():
+	if _hello:
+		_hello.test()
+	pass # Replace with function body.
+
+
+func _on_test3_pressed():
+	if _hello:
+		_hello.test3()
 	pass # Replace with function body.

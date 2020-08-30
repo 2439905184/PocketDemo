@@ -10,7 +10,27 @@ margin_left = 89.1905
 margin_top = 29.7302
 margin_right = 254.191
 margin_bottom = 104.73
-text = "test"
+text = "getTestString"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="test2" type="Button" parent="."]
+margin_left = 596.052
+margin_top = 49.5516
+margin_right = 761.053
+margin_bottom = 124.551
+text = "testContextToast"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="test3" type="Button" parent="."]
+margin_left = 78.0602
+margin_top = 278.275
+margin_right = 243.061
+margin_bottom = 353.275
+text = "testContextToast3"
 __meta__ = {
 "_edit_use_anchors_": false
 }
@@ -45,3 +65,5 @@ __meta__ = {
 "_edit_use_anchors_": false
 }
 [connection signal="pressed" from="test" to="." method="_on_test_pressed"]
+[connection signal="pressed" from="test2" to="." method="_on_test2_pressed"]
+[connection signal="pressed" from="test3" to="." method="_on_test3_pressed"]
