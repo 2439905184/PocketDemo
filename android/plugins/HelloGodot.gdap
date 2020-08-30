@@ -1,0 +1,9 @@
+[config]
+name="HelloGodot"
+binary_type="local"
+binary="GodotHelloPlugin-debug.aar"
+
+[dependencies]
+
+local=["GodotHelloPlugin-debug.aar"]
+
