@@ -28,9 +28,9 @@ func _on_test_pressed():
 	#print_tree_pretty()
 	if _hello:
 		OS.alert("有Hello单例")
-		var array=_hello.get_method_list()
-		for i in array:
-			$Label3.text=str(i)
+#		var array=_hello.get_method_list()
+#		for i in array:
+#			$Label3.text=str(i)
 		#hello.test()
 		var result=_hello.test2()
 		OS.alert(result)
@@ -44,11 +44,33 @@ func _test():
 
 func _on_test2_pressed():
 	if _hello:
-		_hello.test()
+		var t=_hello.test2()
+		OS.alert(t)
+	pass # Replace with function body.
+
+func _on_getGodot_pressed():
+	if _hello:
+		var g=_hello.get_Godot()
+		OS.alert(g)
 	pass # Replace with function body.
 
 
-func _on_test3_pressed():
+func _on_Toast_pressed():
 	if _hello:
+		#Toast测试ui线程
 		_hello.test3()
+	pass # Replace with function body.
+
+
+func _on_getActivity_pressed():
+	if _hello:
+		var a=_hello.get_Activity()
+		OS.alert(a)
+	pass # Replace with function body.
+
+
+func _on_getCtx_pressed():
+	if _hello:
+		var ctx=_hello.get_ctx()
+		OS.alert(ctx)
 	pass # Replace with function body.

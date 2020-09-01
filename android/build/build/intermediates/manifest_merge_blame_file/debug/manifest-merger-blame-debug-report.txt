@@ -128,11 +128,11 @@
 83-->[godot-lib.debug.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\e08a8fd1e624c35ad31b54d3d747a250\godot-lib.debug\AndroidManifest.xml:19:18-77
 84
 85        <meta-data
-85-->[GodotHelloPlugin-debug.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0ff105f22741c9fc8abf6f64149cf963\GodotHelloPlugin-debug\AndroidManifest.xml:12:9-14:69
+85-->[GodotHelloPlugin-debug.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\cddddd7e2af10a98516318381467035c\GodotHelloPlugin-debug\AndroidManifest.xml:12:9-14:69
 86            android:name="org.godotengine.plugin.v1.HelloGodot"
-86-->[GodotHelloPlugin-debug.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0ff105f22741c9fc8abf6f64149cf963\GodotHelloPlugin-debug\AndroidManifest.xml:13:13-64
+86-->[GodotHelloPlugin-debug.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\cddddd7e2af10a98516318381467035c\GodotHelloPlugin-debug\AndroidManifest.xml:13:13-64
 87            android:value="com.hh128.GodotHelloPlugin.HelloGodot" />
-87-->[GodotHelloPlugin-debug.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0ff105f22741c9fc8abf6f64149cf963\GodotHelloPlugin-debug\AndroidManifest.xml:14:13-66
+87-->[GodotHelloPlugin-debug.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\cddddd7e2af10a98516318381467035c\GodotHelloPlugin-debug\AndroidManifest.xml:14:13-66
 88    </application>
 89
 90</manifest>

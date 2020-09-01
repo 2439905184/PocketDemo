@@ -16,21 +16,51 @@ __meta__ = {
 }
 
 [node name="test2" type="Button" parent="."]
-margin_left = 596.052
-margin_top = 49.5516
-margin_right = 761.053
-margin_bottom = 124.551
-text = "testContextToast"
+margin_left = 78.9006
+margin_top = 129.437
+margin_right = 243.902
+margin_bottom = 204.436
+text = "test2"
 __meta__ = {
 "_edit_use_anchors_": false
 }
 
-[node name="test3" type="Button" parent="."]
+[node name="getGodot" type="Button" parent="."]
 margin_left = 78.0602
 margin_top = 278.275
 margin_right = 243.061
 margin_bottom = 353.275
-text = "testContextToast3"
+text = "getGodot"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Toast" type="Button" parent="."]
+margin_left = 499.658
+margin_top = 273.286
+margin_right = 664.659
+margin_bottom = 348.286
+text = "toast_test3"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="getActivity" type="Button" parent="."]
+margin_left = 501.872
+margin_top = 26.847
+margin_right = 666.873
+margin_bottom = 101.847
+text = "get_Activity"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="getCtx" type="Button" parent="."]
+margin_left = 490.099
+margin_top = 131.959
+margin_right = 655.1
+margin_bottom = 206.959
+text = "get_ctx"
 __meta__ = {
 "_edit_use_anchors_": false
 }
@@ -66,4 +96,7 @@ __meta__ = {
 }
 [connection signal="pressed" from="test" to="." method="_on_test_pressed"]
 [connection signal="pressed" from="test2" to="." method="_on_test2_pressed"]
-[connection signal="pressed" from="test3" to="." method="_on_test3_pressed"]
+[connection signal="pressed" from="getGodot" to="." method="_on_getGodot_pressed"]
+[connection signal="pressed" from="Toast" to="." method="_on_Toast_pressed"]
+[connection signal="pressed" from="getActivity" to="." method="_on_getActivity_pressed"]
+[connection signal="pressed" from="getCtx" to="." method="_on_getCtx_pressed"]
