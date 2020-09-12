@@ -35,6 +35,16 @@ __meta__ = {
 "_edit_use_anchors_": false
 }
 
+[node name="Yomob" type="Button" parent="."]
+margin_left = 289.06
+margin_top = 409.275
+margin_right = 454.061
+margin_bottom = 484.275
+text = "goToYomob"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
 [node name="Toast" type="Button" parent="."]
 margin_left = 499.658
 margin_top = 273.286
@@ -97,6 +107,7 @@ __meta__ = {
 [connection signal="pressed" from="test" to="." method="_on_test_pressed"]
 [connection signal="pressed" from="test2" to="." method="_on_test2_pressed"]
 [connection signal="pressed" from="getGodot" to="." method="_on_getGodot_pressed"]
+[connection signal="pressed" from="Yomob" to="." method="_on_getGodot2_pressed"]
 [connection signal="pressed" from="Toast" to="." method="_on_Toast_pressed"]
 [connection signal="pressed" from="getActivity" to="." method="_on_getActivity_pressed"]
 [connection signal="pressed" from="getCtx" to="." method="_on_getCtx_pressed"]

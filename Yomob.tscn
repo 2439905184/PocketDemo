@@ -1,0 +1,35 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Yomob.gd" type="Script" id=1]
+
+[node name="Yomob" type="Node2D"]
+script = ExtResource( 1 )
+__meta__ = {
+"_editor_description_": "视频广告ID:
+5390XujUetVDcp8w3R0
+appid:66693598S65HJ3YTqYX1"
+}
+appId = "66693598S65HJ3YTqYX1"
+sceneId = PoolStringArray( "5390XujUetVDcp8w3R0" )
+
+[node name="Init" type="Button" parent="."]
+margin_left = 8.0
+margin_top = 7.0
+margin_right = 127.0
+margin_bottom = 85.0
+text = "Init"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="back" type="Button" parent="."]
+margin_left = 322.98
+margin_top = 3.22025
+margin_right = 441.98
+margin_bottom = 81.2202
+text = "back"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+[connection signal="pressed" from="Init" to="." method="_on_Init_pressed"]
+[connection signal="pressed" from="back" to="." method="_on_back_pressed"]

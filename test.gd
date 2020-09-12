@@ -74,3 +74,8 @@ func _on_getCtx_pressed():
 		var ctx=_hello.get_ctx()
 		OS.alert(ctx)
 	pass # Replace with function body.
+
+
+func _on_getGodot2_pressed():
+	get_tree().change_scene("res://Yomob.tscn")
+	pass # Replace with function body.

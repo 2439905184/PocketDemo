@@ -4,32 +4,56 @@
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\1d849761628829d2295b320ffc5152e0\\media-1.0.0\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\947833f03979c6d84fcd9a8feba7ce42\\core-1.0.0\\res\\layout-v16\\notification_template_custom_big.xml"
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_mintegral_reward_activity_video_templete.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\layout\\mintegral_reward_activity_video_templete.xml"
     },
     {
-        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\947833f03979c6d84fcd9a8feba7ce42\\core-1.0.0\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_wm_vidoe_shap.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\4f47e5f8dabe54a15c5e0aa54e6e260e\\jetified-TGSDKADWangmai.1.8.9\\res\\drawable\\wm_vidoe_shap.xml"
     },
     {
-        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4_icon_background.png.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\e08a8fd1e624c35ad31b54d3d747a250\\godot-lib.debug\\res\\mipmap-hdpi-v4\\icon_background.png"
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_play_movebar_textpage.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_play_movebar_textpage.xml"
     },
     {
-        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_icon.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\e08a8fd1e624c35ad31b54d3d747a250\\godot-lib.debug\\res\\mipmap-anydpi-v26\\icon.xml"
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_gdt_ic_express_volume_off.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\19d97606929ca96ff1fa83076d09a8b4\\TGSDKADGuangdiantong.1.8.9\\res\\drawable-xxhdpi-v4\\gdt_ic_express_volume_off.png"
     },
     {
-        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4_icon.png.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\e08a8fd1e624c35ad31b54d3d747a250\\godot-lib.debug\\res\\mipmap-xxhdpi-v4\\icon.png"
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gdt_ic_replay.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\19d97606929ca96ff1fa83076d09a8b4\\TGSDKADGuangdiantong.1.8.9\\res\\drawable-hdpi-v4\\gdt_ic_replay.png"
     },
     {
         "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\947833f03979c6d84fcd9a8feba7ce42\\core-1.0.0\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
     },
     {
-        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\947833f03979c6d84fcd9a8feba7ce42\\core-1.0.0\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_tt_close_move_details_pressed.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable-xhdpi-v4\\tt_close_move_details_pressed.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\xml_hytech_provider_paths.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8afd60728d1a0c8f7836b2b3c5cffdf8\\jetified-TGSDKADHytech.1.8.9\\res\\xml\\hytech_provider_paths.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_tt_lefterbackicon_titlebar_press.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable-xhdpi-v4\\tt_lefterbackicon_titlebar_press.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_seek_thumb_fullscreen.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_seek_thumb_fullscreen.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_mintegral_reward_activity_ad_end_land_des_rl_hot.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\drawable-hdpi-v4\\mintegral_reward_activity_ad_end_land_des_rl_hot.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_wm_ad.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\4f47e5f8dabe54a15c5e0aa54e6e260e\\jetified-TGSDKADWangmai.1.8.9\\res\\layout\\wm_ad.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_dislike_cancle_bg_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_dislike_cancle_bg_selector.xml"
     },
     {
         "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
@@ -44,24 +68,68 @@
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\947833f03979c6d84fcd9a8feba7ce42\\core-1.0.0\\res\\layout\\notification_template_icon_group.xml"
     },
     {
-        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\1d849761628829d2295b320ffc5152e0\\media-1.0.0\\res\\layout\\notification_media_action.xml"
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_mintegral_video_common_alertview_confirm_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\drawable\\mintegral_video_common_alertview_confirm_bg.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_video_traffic_tip.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_video_traffic_tip.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_mintegral_reward_endcard_vast.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\layout\\mintegral_reward_endcard_vast.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_ad_skip_btn_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_ad_skip_btn_bg.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_wm_game_banner_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\4f47e5f8dabe54a15c5e0aa54e6e260e\\jetified-TGSDKADWangmai.1.8.9\\res\\layout\\wm_game_banner_layout.xml"
     },
     {
         "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\1d849761628829d2295b320ffc5152e0\\media-1.0.0\\res\\layout\\notification_template_media_custom.xml"
     },
     {
-        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\947833f03979c6d84fcd9a8feba7ce42\\core-1.0.0\\res\\layout\\notification_action_tombstone.xml"
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_mintegral_cm_progress.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\drawable-hdpi-v4\\mintegral_cm_progress.png"
     },
     {
-        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4_icon_background.png.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\e08a8fd1e624c35ad31b54d3d747a250\\godot-lib.debug\\res\\mipmap-xhdpi-v4\\icon_background.png"
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_mintegral_cm_end_animation.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\drawable-hdpi-v4\\mintegral_cm_end_animation.png"
     },
     {
-        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\947833f03979c6d84fcd9a8feba7ce42\\core-1.0.0\\res\\layout-v21\\notification_template_icon_group.xml"
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_mintegral_reward_clickable_cta.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\layout\\mintegral_reward_clickable_cta.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_wm_torch_native.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\4f47e5f8dabe54a15c5e0aa54e6e260e\\jetified-TGSDKADWangmai.1.8.9\\res\\layout\\wm_torch_native.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_backup_full_reward.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_backup_full_reward.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_splash_view.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_splash_view.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gdt_ic_seekbar_background.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\19d97606929ca96ff1fa83076d09a8b4\\TGSDKADGuangdiantong.1.8.9\\res\\drawable-hdpi-v4\\gdt_ic_seekbar_background.9.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\anim_mintegral_reward_activity_stay.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\anim\\mintegral_reward_activity_stay.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_gdt_ic_download.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\19d97606929ca96ff1fa83076d09a8b4\\TGSDKADGuangdiantong.1.8.9\\res\\drawable-xxhdpi-v4\\gdt_ic_download.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_mintegral_reward_shape_progress.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\drawable\\mintegral_reward_shape_progress.xml"
     },
     {
         "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
@@ -72,104 +140,512 @@
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\947833f03979c6d84fcd9a8feba7ce42\\core-1.0.0\\res\\layout\\notification_action.xml"
     },
     {
-        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\1d849761628829d2295b320ffc5152e0\\media-1.0.0\\res\\layout\\notification_template_lines_media.xml"
-    },
-    {
-        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\947833f03979c6d84fcd9a8feba7ce42\\core-1.0.0\\res\\drawable\\notification_tile_bg.xml"
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_gdt_ic_enter_fullscreen.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\19d97606929ca96ff1fa83076d09a8b4\\TGSDKADGuangdiantong.1.8.9\\res\\drawable-xxhdpi-v4\\gdt_ic_enter_fullscreen.png"
     },
     {
         "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\1d849761628829d2295b320ffc5152e0\\media-1.0.0\\res\\layout\\notification_template_big_media_custom.xml"
     },
     {
-        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4_icon.png.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\e08a8fd1e624c35ad31b54d3d747a250\\godot-lib.debug\\res\\mipmap-hdpi-v4\\icon.png"
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_tt_new_pause_video_press.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable-xhdpi-v4\\tt_new_pause_video_press.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_tt_white_lefterbackicon_titlebar_press.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable-xhdpi-v4\\tt_white_lefterbackicon_titlebar_press.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_mintegral_cm_head.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\drawable-hdpi-v4\\mintegral_cm_head.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_comment_tv.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_comment_tv.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_mintegral_video_common_alertview.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\layout\\mintegral_video_common_alertview.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_wm_game_search_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\4f47e5f8dabe54a15c5e0aa54e6e260e\\jetified-TGSDKADWangmai.1.8.9\\res\\layout\\wm_game_search_layout.xml"
     },
     {
         "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\947833f03979c6d84fcd9a8feba7ce42\\core-1.0.0\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
-        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\947833f03979c6d84fcd9a8feba7ce42\\core-1.0.0\\res\\drawable\\notification_icon_background.xml"
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gdt_ic_express_volume_on.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\19d97606929ca96ff1fa83076d09a8b4\\TGSDKADGuangdiantong.1.8.9\\res\\drawable-hdpi-v4\\gdt_ic_express_volume_on.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_gdt_ic_express_play.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\19d97606929ca96ff1fa83076d09a8b4\\TGSDKADGuangdiantong.1.8.9\\res\\drawable-xxhdpi-v4\\gdt_ic_express_play.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_tt_video_close_drawable.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable-xhdpi-v4\\tt_video_close_drawable.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_mintegral_video_common_full_star.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\drawable-hdpi-v4\\mintegral_video_common_full_star.png"
     },
     {
         "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\mipmap_icon_foreground.png.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\e08a8fd1e624c35ad31b54d3d747a250\\godot-lib.debug\\res\\mipmap\\icon_foreground.png"
     },
     {
-        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\947833f03979c6d84fcd9a8feba7ce42\\core-1.0.0\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
-    },
-    {
-        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\947833f03979c6d84fcd9a8feba7ce42\\core-1.0.0\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
-    },
-    {
-        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4_icon_background.png.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\e08a8fd1e624c35ad31b54d3d747a250\\godot-lib.debug\\res\\mipmap-xxxhdpi-v4\\icon_background.png"
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_tt_shadow_lefterback_titlebar_withoutnight.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable-xhdpi-v4\\tt_shadow_lefterback_titlebar_withoutnight.png"
     },
     {
         "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\947833f03979c6d84fcd9a8feba7ce42\\core-1.0.0\\res\\layout-v21\\notification_action.xml"
     },
     {
-        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\947833f03979c6d84fcd9a8feba7ce42\\core-1.0.0\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_backup_feed_img_small.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_backup_feed_img_small.xml"
     },
     {
-        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4_icon_foreground.png.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\e08a8fd1e624c35ad31b54d3d747a250\\godot-lib.debug\\res\\mipmap-mdpi-v4\\icon_foreground.png"
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_browser_download_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_browser_download_layout.xml"
     },
     {
-        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\1d849761628829d2295b320ffc5152e0\\media-1.0.0\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_gdt_ic_volume_on.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\19d97606929ca96ff1fa83076d09a8b4\\TGSDKADGuangdiantong.1.8.9\\res\\drawable-xxhdpi-v4\\gdt_ic_volume_on.png"
     },
     {
-        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\947833f03979c6d84fcd9a8feba7ce42\\core-1.0.0\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_appdownloader_download_progress_bar_horizontal.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\appdownloader_download_progress_bar_horizontal.xml"
     },
     {
         "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_status_bar_ongoing_event_progress_bar.xml.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\e08a8fd1e624c35ad31b54d3d747a250\\godot-lib.debug\\res\\layout\\status_bar_ongoing_event_progress_bar.xml"
     },
     {
-        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\947833f03979c6d84fcd9a8feba7ce42\\core-1.0.0\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_seek_thumb.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_seek_thumb.xml"
     },
     {
         "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\1d849761628829d2295b320ffc5152e0\\media-1.0.0\\res\\layout\\notification_template_media.xml"
     },
     {
-        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_downloading_expansion.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\e08a8fd1e624c35ad31b54d3d747a250\\godot-lib.debug\\res\\layout\\downloading_expansion.xml"
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_activity_videolandingpage.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_activity_videolandingpage.xml"
     },
     {
-        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4_icon_foreground.png.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\e08a8fd1e624c35ad31b54d3d747a250\\godot-lib.debug\\res\\mipmap-xxxhdpi-v4\\icon_foreground.png"
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_titlebar_close_seletor.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_titlebar_close_seletor.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_ad_download_progress_bar_horizontal.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_ad_download_progress_bar_horizontal.xml"
     },
     {
         "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\1d849761628829d2295b320ffc5152e0\\media-1.0.0\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\947833f03979c6d84fcd9a8feba7ce42\\core-1.0.0\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_wm_game_splash_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\4f47e5f8dabe54a15c5e0aa54e6e260e\\jetified-TGSDKADWangmai.1.8.9\\res\\layout\\wm_game_splash_layout.xml"
     },
     {
-        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4_icon_foreground.png.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\e08a8fd1e624c35ad31b54d3d747a250\\godot-lib.debug\\res\\mipmap-xxhdpi-v4\\icon_foreground.png"
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_wm_inster_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\4f47e5f8dabe54a15c5e0aa54e6e260e\\jetified-TGSDKADWangmai.1.8.9\\res\\layout\\wm_inster_layout.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_playable_progress_style.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_playable_progress_style.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_dislike_top_seletor.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_dislike_top_seletor.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_tt_shadow_lefterback_titlebar_press_withoutnight.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable-xhdpi-v4\\tt_shadow_lefterback_titlebar_press_withoutnight.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_tt_titlebar_close_drawable.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable-xhdpi-v4\\tt_titlebar_close_drawable.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_shadow_btn_back.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_shadow_btn_back.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_backup_btn_1.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_backup_btn_1.xml"
     },
     {
         "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4_icon_background.png.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\e08a8fd1e624c35ad31b54d3d747a250\\godot-lib.debug\\res\\mipmap-xxhdpi-v4\\icon_background.png"
     },
     {
-        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\947833f03979c6d84fcd9a8feba7ce42\\core-1.0.0\\res\\drawable-v21\\notification_action_background.xml"
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gdt_ic_download.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\19d97606929ca96ff1fa83076d09a8b4\\TGSDKADGuangdiantong.1.8.9\\res\\drawable-hdpi-v4\\gdt_ic_download.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_mintegral_cm_highlight.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\drawable-hdpi-v4\\mintegral_cm_highlight.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_tt_ad_logo_small.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable-xhdpi-v4\\tt_ad_logo_small.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_ad_cover_btn_draw_begin_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_ad_cover_btn_draw_begin_bg.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_custom_dailog_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_custom_dailog_layout.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_tt_shrink_video.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable-xhdpi-v4\\tt_shrink_video.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_seek_thumb_press.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_seek_thumb_press.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\xml_sigmob_provider_paths.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\bebd326b2e02baeecb9da62731210640\\jetified-TGSDKADSigmob.1.8.9\\res\\xml\\sigmob_provider_paths.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_install_bk.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_install_bk.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_tt_enlarge_video.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable-xhdpi-v4\\tt_enlarge_video.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\947833f03979c6d84fcd9a8feba7ce42\\core-1.0.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\947833f03979c6d84fcd9a8feba7ce42\\core-1.0.0\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_top_reward_dislike_2.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_top_reward_dislike_2.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_seek_thumb_fullscreen_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_seek_thumb_fullscreen_selector.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_dislike_top_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_dislike_top_bg.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_mintegral_reward_end_land_shape.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\drawable-hdpi-v4\\mintegral_reward_end_land_shape.9.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\xml_tt_file_paths.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\6e3a01f3a3563d216d86139c2cce2b92\\jetified-TGSDKADBytedance.1.8.9\\res\\xml\\tt_file_paths.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\xml_yomob_wm_file_paths.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\4f47e5f8dabe54a15c5e0aa54e6e260e\\jetified-TGSDKADWangmai.1.8.9\\res\\xml\\yomob_wm_file_paths.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_ad_backup_bk2.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_ad_backup_bk2.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_wm_customrelative.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\4f47e5f8dabe54a15c5e0aa54e6e260e\\jetified-TGSDKADWangmai.1.8.9\\res\\layout\\wm_customrelative.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_wm_progress_anim.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\4f47e5f8dabe54a15c5e0aa54e6e260e\\jetified-TGSDKADWangmai.1.8.9\\res\\drawable\\wm_progress_anim.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_gdt_ic_back.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\19d97606929ca96ff1fa83076d09a8b4\\TGSDKADGuangdiantong.1.8.9\\res\\drawable-xxhdpi-v4\\gdt_ic_back.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_download_corner_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_download_corner_bg.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gdt_ic_express_close.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\19d97606929ca96ff1fa83076d09a8b4\\TGSDKADGuangdiantong.1.8.9\\res\\drawable-hdpi-v4\\gdt_ic_express_close.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4_icon_background.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\e08a8fd1e624c35ad31b54d3d747a250\\godot-lib.debug\\res\\mipmap-hdpi-v4\\icon_background.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_appdownloader_ad_detail_download_progress.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\appdownloader_ad_detail_download_progress.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4_icon.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\e08a8fd1e624c35ad31b54d3d747a250\\godot-lib.debug\\res\\mipmap-xxhdpi-v4\\icon.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_shadow_btn_back_withoutnight.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_shadow_btn_back_withoutnight.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_dislike_bottom_seletor.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_dislike_bottom_seletor.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\xml_ow_file_paths.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\758e03b25e098552161477681925e48b\\jetified-TGSDKADOneway.1.8.9\\res\\xml\\ow_file_paths.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_tt_playable_l_logo.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable-xhdpi-v4\\tt_playable_l_logo.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_appdownloader_notification_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\appdownloader_notification_layout.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_mintegral_reward_end_shape_oval.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\drawable\\mintegral_reward_end_shape_oval.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gdt_ic_express_back_to_port.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\19d97606929ca96ff1fa83076d09a8b4\\TGSDKADGuangdiantong.1.8.9\\res\\drawable-hdpi-v4\\gdt_ic_express_back_to_port.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gdt_ic_back.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\19d97606929ca96ff1fa83076d09a8b4\\TGSDKADGuangdiantong.1.8.9\\res\\drawable-hdpi-v4\\gdt_ic_back.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_mintegral_cm_forward_nor.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\drawable-hdpi-v4\\mintegral_cm_forward_nor.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_browser_progress_style.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_browser_progress_style.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_backup_banner_layout3.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_backup_banner_layout3.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_video_loading_progress_bar.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_video_loading_progress_bar.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_gdt_ic_browse.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\19d97606929ca96ff1fa83076d09a8b4\\TGSDKADGuangdiantong.1.8.9\\res\\drawable-xxhdpi-v4\\gdt_ic_browse.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_appdownloader_detail_download_success_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\appdownloader_detail_download_success_bg.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gdt_ic_browse.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\19d97606929ca96ff1fa83076d09a8b4\\TGSDKADGuangdiantong.1.8.9\\res\\drawable-hdpi-v4\\gdt_ic_browse.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_gdt_ic_pause.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\19d97606929ca96ff1fa83076d09a8b4\\TGSDKADGuangdiantong.1.8.9\\res\\drawable-xxhdpi-v4\\gdt_ic_pause.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_activity_full_video_new_bar_3_style.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_activity_full_video_new_bar_3_style.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4_wm_icon_video_play.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\4f47e5f8dabe54a15c5e0aa54e6e260e\\jetified-TGSDKADWangmai.1.8.9\\res\\mipmap-xxhdpi-v4\\wm_icon_video_play.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_tt_suggestion_logo.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable-xhdpi-v4\\tt_suggestion_logo.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_yomob_bottom_land.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\f843c61ebc02ad1f1b3c334090726c8c\\jetified-TGSDKADYoads.1.8.9\\res\\layout\\yomob_bottom_land.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_mintegral_cm_forward_disabled.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\drawable-hdpi-v4\\mintegral_cm_forward_disabled.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_detail_video_btn_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_detail_video_btn_bg.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_dislike_middle_seletor.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_dislike_middle_seletor.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_appdownloader_download_progress_bar_horizontal_night.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\appdownloader_download_progress_bar_horizontal_night.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_gdt_ic_exit_fullscreen.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\19d97606929ca96ff1fa83076d09a8b4\\TGSDKADGuangdiantong.1.8.9\\res\\drawable-xxhdpi-v4\\gdt_ic_exit_fullscreen.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_mintegral_cm_refresh.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\drawable\\mintegral_cm_refresh.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_tt_splash_unmute.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable-xhdpi-v4\\tt_splash_unmute.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4_icon_background.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\e08a8fd1e624c35ad31b54d3d747a250\\godot-lib.debug\\res\\mipmap-xhdpi-v4\\icon_background.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_ad_backup_bk.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_ad_backup_bk.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\1d849761628829d2295b320ffc5152e0\\media-1.0.0\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_mintegral_video_common_alertview_cancel_bg_nor.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\drawable\\mintegral_video_common_alertview_cancel_bg_nor.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_mintegral_video_common_alertview_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\drawable\\mintegral_video_common_alertview_bg.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_mintegral_reward_sound_close.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\drawable-hdpi-v4\\mintegral_reward_sound_close.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_native_video_ad_view.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_native_video_ad_view.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_tt_new_pause_video.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable-xhdpi-v4\\tt_new_pause_video.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4_wm_icon_sousuo.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\4f47e5f8dabe54a15c5e0aa54e6e260e\\jetified-TGSDKADWangmai.1.8.9\\res\\mipmap-xxhdpi-v4\\wm_icon_sousuo.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_mintegral_interstitial_activity.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\layout\\mintegral_interstitial_activity.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_mintegral_reward_vast_end_close.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\drawable-hdpi-v4\\mintegral_reward_vast_end_close.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_backup_insert_layout1.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_backup_insert_layout1.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_tt_splash_mute.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable-xhdpi-v4\\tt_splash_mute.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_tt_back_video.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable-xhdpi-v4\\tt_back_video.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_browser_titlebar.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_browser_titlebar.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_gdt_ic_express_pause.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\19d97606929ca96ff1fa83076d09a8b4\\TGSDKADGuangdiantong.1.8.9\\res\\drawable-xxhdpi-v4\\gdt_ic_express_pause.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_mintegral_cm_tail.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\drawable-hdpi-v4\\mintegral_cm_tail.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_gdt_ic_express_back_to_port.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\19d97606929ca96ff1fa83076d09a8b4\\TGSDKADGuangdiantong.1.8.9\\res\\drawable-xxhdpi-v4\\gdt_ic_express_back_to_port.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\947833f03979c6d84fcd9a8feba7ce42\\core-1.0.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_tt_lefterbackicon_titlebar_for_dark.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable-xhdpi-v4\\tt_lefterbackicon_titlebar_for_dark.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_backup_feed_horizontal.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_backup_feed_horizontal.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gdt_ic_express_play.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\19d97606929ca96ff1fa83076d09a8b4\\TGSDKADGuangdiantong.1.8.9\\res\\drawable-hdpi-v4\\gdt_ic_express_play.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_mintegral_reward_videoview_item.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\layout\\mintegral_reward_videoview_item.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_tt_mute.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable-xhdpi-v4\\tt_mute.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_backup_ad2.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_backup_ad2.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\947833f03979c6d84fcd9a8feba7ce42\\core-1.0.0\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_backup_ad1.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_backup_ad1.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_activity_full_video_newstyle.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_activity_full_video_newstyle.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_tt_titlebar_close_press.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable-xhdpi-v4\\tt_titlebar_close_press.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_gdt_ic_progress_thumb_normal.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\19d97606929ca96ff1fa83076d09a8b4\\TGSDKADGuangdiantong.1.8.9\\res\\drawable-xxhdpi-v4\\gdt_ic_progress_thumb_normal.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_insert_ad_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_insert_ad_layout.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_seek_thumb_fullscreen_press.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_seek_thumb_fullscreen_press.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_activity_reward_and_full_video_new_bar.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_activity_reward_and_full_video_new_bar.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_activity_ttlandingpage.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_activity_ttlandingpage.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_video_play_layout_for_live.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_video_play_layout_for_live.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_gdt_ic_seekbar_progress.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\19d97606929ca96ff1fa83076d09a8b4\\TGSDKADGuangdiantong.1.8.9\\res\\drawable-xxhdpi-v4\\gdt_ic_seekbar_progress.9.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4_wm_game_del.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\4f47e5f8dabe54a15c5e0aa54e6e260e\\jetified-TGSDKADWangmai.1.8.9\\res\\mipmap-xxhdpi-v4\\wm_game_del.png"
     },
     {
         "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
@@ -180,40 +656,24 @@
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\e08a8fd1e624c35ad31b54d3d747a250\\godot-lib.debug\\res\\mipmap\\icon.png"
     },
     {
-        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\947833f03979c6d84fcd9a8feba7ce42\\core-1.0.0\\res\\layout\\notification_template_part_time.xml"
-    },
-    {
         "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\1d849761628829d2295b320ffc5152e0\\media-1.0.0\\res\\layout\\notification_template_big_media.xml"
     },
     {
-        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\947833f03979c6d84fcd9a8feba7ce42\\core-1.0.0\\res\\layout-v21\\notification_action_tombstone.xml"
-    },
-    {
-        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\947833f03979c6d84fcd9a8feba7ce42\\core-1.0.0\\res\\drawable\\notification_bg_low.xml"
-    },
-    {
-        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4_icon_background.png.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\e08a8fd1e624c35ad31b54d3d747a250\\godot-lib.debug\\res\\mipmap-mdpi-v4\\icon_background.png"
-    },
-    {
-        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\947833f03979c6d84fcd9a8feba7ce42\\core-1.0.0\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
-    },
-    {
-        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4_icon.png.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\e08a8fd1e624c35ad31b54d3d747a250\\godot-lib.debug\\res\\mipmap-xhdpi-v4\\icon.png"
-    },
-    {
-        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\947833f03979c6d84fcd9a8feba7ce42\\core-1.0.0\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_mintegral_cm_refresh_selected.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\drawable-hdpi-v4\\mintegral_cm_refresh_selected.png"
     },
     {
         "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4_icon_foreground.png.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\e08a8fd1e624c35ad31b54d3d747a250\\godot-lib.debug\\res\\mipmap-hdpi-v4\\icon_foreground.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_tt_normalscreen_loading.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable-xhdpi-v4\\tt_normalscreen_loading.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_dislike_dialog_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_dislike_dialog_bg.xml"
     },
     {
         "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
@@ -224,19 +684,847 @@
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\947833f03979c6d84fcd9a8feba7ce42\\core-1.0.0\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
-        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\mipmap_icon_background.png.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\e08a8fd1e624c35ad31b54d3d747a250\\godot-lib.debug\\res\\mipmap\\icon_background.png"
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_activity_ttlandingpage_playable.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_activity_ttlandingpage_playable.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_mintegral_video_common_alertview_cancel_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\drawable\\mintegral_video_common_alertview_cancel_bg.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4_icon.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\e08a8fd1e624c35ad31b54d3d747a250\\godot-lib.debug\\res\\mipmap-mdpi-v4\\icon.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_wm_nativetemplet.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\4f47e5f8dabe54a15c5e0aa54e6e260e\\jetified-TGSDKADWangmai.1.8.9\\res\\layout\\wm_nativetemplet.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_dislike_dialog_layout1.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_dislike_dialog_layout1.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_backup_draw.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_backup_draw.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_mintegral_reward_close.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\drawable-hdpi-v4\\mintegral_reward_close.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_wm_layout_sc.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\4f47e5f8dabe54a15c5e0aa54e6e260e\\jetified-TGSDKADWangmai.1.8.9\\res\\drawable\\wm_layout_sc.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_gdt_ic_replay.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\19d97606929ca96ff1fa83076d09a8b4\\TGSDKADGuangdiantong.1.8.9\\res\\drawable-xxhdpi-v4\\gdt_ic_replay.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_mintegral_jscommon_authoritylayout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\layout\\mintegral_jscommon_authoritylayout.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_dislike_son_tag.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_dislike_son_tag.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_icon.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\e08a8fd1e624c35ad31b54d3d747a250\\godot-lib.debug\\res\\mipmap-anydpi-v26\\icon.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_playable_loading_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_playable_loading_layout.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_wm_channel_list_del.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\4f47e5f8dabe54a15c5e0aa54e6e260e\\jetified-TGSDKADWangmai.1.8.9\\res\\drawable\\wm_channel_list_del.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_activity_rewardvideo.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_activity_rewardvideo.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_seek_progress.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_seek_progress.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_wm_reward_ordinary_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\4f47e5f8dabe54a15c5e0aa54e6e260e\\jetified-TGSDKADWangmai.1.8.9\\res\\layout\\wm_reward_ordinary_layout.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_custom_dialog_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_custom_dialog_bg.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_dialog_listview_item.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_dialog_listview_item.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\1d849761628829d2295b320ffc5152e0\\media-1.0.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gdt_ic_enter_fullscreen.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\19d97606929ca96ff1fa83076d09a8b4\\TGSDKADGuangdiantong.1.8.9\\res\\drawable-hdpi-v4\\gdt_ic_enter_fullscreen.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_browser_titlebar_for_dark.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_browser_titlebar_for_dark.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4_wm_game_tab_blue.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\4f47e5f8dabe54a15c5e0aa54e6e260e\\jetified-TGSDKADWangmai.1.8.9\\res\\mipmap-xxhdpi-v4\\wm_game_tab_blue.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_yomob_bottom.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\f843c61ebc02ad1f1b3c334090726c8c\\jetified-TGSDKADYoads.1.8.9\\res\\layout\\yomob_bottom.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_wm_bad.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\4f47e5f8dabe54a15c5e0aa54e6e260e\\jetified-TGSDKADWangmai.1.8.9\\res\\layout\\wm_bad.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_draw_back_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_draw_back_bg.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_mintegral_video_common_alertview_confirm_bg_nor.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\drawable\\mintegral_video_common_alertview_confirm_bg_nor.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_reward_full_new_bar_btn_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_reward_full_new_bar_btn_bg.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_playable_btn_bk.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_playable_btn_bk.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_wm_layout_notification.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\4f47e5f8dabe54a15c5e0aa54e6e260e\\jetified-TGSDKADWangmai.1.8.9\\res\\layout\\wm_layout_notification.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\xml_bd_file_paths.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\00fa2f32fddb19aecd3dabd0ff5a1092\\TGSDKADBaidu.1.8.9\\res\\xml\\bd_file_paths.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\947833f03979c6d84fcd9a8feba7ce42\\core-1.0.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_dislike_comment_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_dislike_comment_layout.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4_wm_progress_login.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\4f47e5f8dabe54a15c5e0aa54e6e260e\\jetified-TGSDKADWangmai.1.8.9\\res\\mipmap-xxhdpi-v4\\wm_progress_login.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_reward_video_download_btn_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_reward_video_download_btn_bg.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\raw_wmdex.jar.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\4f47e5f8dabe54a15c5e0aa54e6e260e\\jetified-TGSDKADWangmai.1.8.9\\res\\raw\\wmdex.jar"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_leftbackicon_selector_for_dark.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_leftbackicon_selector_for_dark.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\947833f03979c6d84fcd9a8feba7ce42\\core-1.0.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_yomob_play_again.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\f843c61ebc02ad1f1b3c334090726c8c\\jetified-TGSDKADYoads.1.8.9\\res\\drawable\\yomob_play_again.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_wm_icon_back.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\4f47e5f8dabe54a15c5e0aa54e6e260e\\jetified-TGSDKADWangmai.1.8.9\\res\\drawable\\wm_icon_back.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_install_dialog_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_install_dialog_layout.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_gdt_ic_express_enter_fullscreen.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\19d97606929ca96ff1fa83076d09a8b4\\TGSDKADGuangdiantong.1.8.9\\res\\drawable-xxhdpi-v4\\gdt_ic_express_enter_fullscreen.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_mintegral_reward_vast_end_ok.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\drawable-hdpi-v4\\mintegral_reward_vast_end_ok.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_activity_rewardvideo_new_bar_3_style.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_activity_rewardvideo_new_bar_3_style.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_video_ad_cover_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_video_ad_cover_layout.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4_icon.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\e08a8fd1e624c35ad31b54d3d747a250\\godot-lib.debug\\res\\mipmap-hdpi-v4\\icon.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_ad_logo_background.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_ad_logo_background.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_mute_btn_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_mute_btn_bg.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_mintegral_reward_end_pager_logo.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\drawable-hdpi-v4\\mintegral_reward_end_pager_logo.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_mintegral_video_common_full_while_star.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\drawable-hdpi-v4\\mintegral_video_common_full_while_star.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_wm_reward_lading_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\4f47e5f8dabe54a15c5e0aa54e6e260e\\jetified-TGSDKADWangmai.1.8.9\\res\\layout\\wm_reward_lading_layout.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_video_detail_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_video_detail_layout.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\947833f03979c6d84fcd9a8feba7ce42\\core-1.0.0\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_mintegral_cm_forward.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\drawable\\mintegral_cm_forward.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_yomob_logo.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\f843c61ebc02ad1f1b3c334090726c8c\\jetified-TGSDKADYoads.1.8.9\\res\\drawable\\yomob_logo.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_tt_titlebar_close_press_for_dark.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable-xhdpi-v4\\tt_titlebar_close_press_for_dark.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\947833f03979c6d84fcd9a8feba7ce42\\core-1.0.0\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_video_traffic_tips_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_video_traffic_tips_layout.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4_icon_background.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\e08a8fd1e624c35ad31b54d3d747a250\\godot-lib.debug\\res\\mipmap-xxxhdpi-v4\\icon_background.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_backup_feed_video.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_backup_feed_video.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gdt_ic_seekbar_progress.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\19d97606929ca96ff1fa83076d09a8b4\\TGSDKADGuangdiantong.1.8.9\\res\\drawable-hdpi-v4\\gdt_ic_seekbar_progress.9.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_mintegral_cm_exits_nor.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\drawable-hdpi-v4\\mintegral_cm_exits_nor.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_skip_text_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_skip_text_bg.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_appdownloader_action_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\appdownloader_action_bg.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_stop_movebar_textpage.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_stop_movebar_textpage.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_wm_game_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\4f47e5f8dabe54a15c5e0aa54e6e260e\\jetified-TGSDKADWangmai.1.8.9\\res\\layout\\wm_game_layout.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\947833f03979c6d84fcd9a8feba7ce42\\core-1.0.0\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_activity_reward_video_newstyle.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_activity_reward_video_newstyle.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_top_reward_1.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_top_reward_1.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_tt_forward_video.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable-xhdpi-v4\\tt_forward_video.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4_wm_channel_list_del.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\4f47e5f8dabe54a15c5e0aa54e6e260e\\jetified-TGSDKADWangmai.1.8.9\\res\\mipmap-xxhdpi-v4\\wm_channel_list_del.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_refreshing_video_textpage.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_refreshing_video_textpage.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\xml_uniplay_file_path.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8e4cebc19c4121c0afb85a5b934dc6f7\\TGSDKADUniplay.1.8.9\\res\\xml\\uniplay_file_path.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\anim_tt_dislike_animation_show.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\anim\\tt_dislike_animation_show.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_dislike_dialog_layout2.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_dislike_dialog_layout2.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gdt_ic_pause.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\19d97606929ca96ff1fa83076d09a8b4\\TGSDKADGuangdiantong.1.8.9\\res\\drawable-hdpi-v4\\gdt_ic_pause.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_close_move_detail.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_close_move_detail.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_mintegral_cm_backward.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\drawable\\mintegral_cm_backward.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gdt_ic_express_pause.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\19d97606929ca96ff1fa83076d09a8b4\\TGSDKADGuangdiantong.1.8.9\\res\\drawable-hdpi-v4\\gdt_ic_express_pause.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\947833f03979c6d84fcd9a8feba7ce42\\core-1.0.0\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_wm_shap_radius.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\4f47e5f8dabe54a15c5e0aa54e6e260e\\jetified-TGSDKADWangmai.1.8.9\\res\\drawable\\wm_shap_radius.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4_icon_foreground.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\e08a8fd1e624c35ad31b54d3d747a250\\godot-lib.debug\\res\\mipmap-xxhdpi-v4\\icon_foreground.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_reward_full_video_backup_btn_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_reward_full_video_backup_btn_bg.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\947833f03979c6d84fcd9a8feba7ce42\\core-1.0.0\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_leftbackbutton_titlebar_photo_preview.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_leftbackbutton_titlebar_photo_preview.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_tt_lefterbackicon_titlebar.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable-xhdpi-v4\\tt_lefterbackicon_titlebar.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\947833f03979c6d84fcd9a8feba7ce42\\core-1.0.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_mintegral_video_common_alertview_confirm_bg_pressed.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\drawable\\mintegral_video_common_alertview_confirm_bg_pressed.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_tt_refreshing_video_textpage_pressed.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable-xhdpi-v4\\tt_refreshing_video_textpage_pressed.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_tt_unmute.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable-xhdpi-v4\\tt_unmute.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\947833f03979c6d84fcd9a8feba7ce42\\core-1.0.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_wm_game_shap.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\4f47e5f8dabe54a15c5e0aa54e6e260e\\jetified-TGSDKADWangmai.1.8.9\\res\\drawable\\wm_game_shap.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_wm_game_pop.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\4f47e5f8dabe54a15c5e0aa54e6e260e\\jetified-TGSDKADWangmai.1.8.9\\res\\layout\\wm_game_pop.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gdt_ic_volume_off.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\19d97606929ca96ff1fa83076d09a8b4\\TGSDKADGuangdiantong.1.8.9\\res\\drawable-hdpi-v4\\gdt_ic_volume_off.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_wm_layout_grid_item.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\4f47e5f8dabe54a15c5e0aa54e6e260e\\jetified-TGSDKADWangmai.1.8.9\\res\\layout\\wm_layout_grid_item.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\947833f03979c6d84fcd9a8feba7ce42\\core-1.0.0\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4_icon.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\e08a8fd1e624c35ad31b54d3d747a250\\godot-lib.debug\\res\\mipmap-xhdpi-v4\\icon.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_yomob_interstitial.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\f843c61ebc02ad1f1b3c334090726c8c\\jetified-TGSDKADYoads.1.8.9\\res\\layout\\yomob_interstitial.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_yomob_ad_close.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\f843c61ebc02ad1f1b3c334090726c8c\\jetified-TGSDKADYoads.1.8.9\\res\\drawable\\yomob_ad_close.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_wm_shap_drawable.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\4f47e5f8dabe54a15c5e0aa54e6e260e\\jetified-TGSDKADWangmai.1.8.9\\res\\drawable\\wm_shap_drawable.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\xml_mtg_provider_paths.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\xml\\mtg_provider_paths.xml"
     },
     {
         "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4_icon_foreground.png.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\e08a8fd1e624c35ad31b54d3d747a250\\godot-lib.debug\\res\\mipmap-xhdpi-v4\\icon_foreground.png"
     },
     {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_mintegral_reward_endcard_h5.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\layout\\mintegral_reward_endcard_h5.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_mintegral_video_common_alertview_cancel_bg_pressed.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\drawable\\mintegral_video_common_alertview_cancel_bg_pressed.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_tt_shadow_lefterback_titlebar_press.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable-xhdpi-v4\\tt_shadow_lefterback_titlebar_press.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_reward_full_new_bar_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_reward_full_new_bar_bg.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_wm_reward_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\4f47e5f8dabe54a15c5e0aa54e6e260e\\jetified-TGSDKADWangmai.1.8.9\\res\\layout\\wm_reward_layout.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_leftbackicon_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_leftbackicon_selector.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_tt_lefterbackicon_titlebar_press_for_dark.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable-xhdpi-v4\\tt_lefterbackicon_titlebar_press_for_dark.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_reward_countdown_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_reward_countdown_bg.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\947833f03979c6d84fcd9a8feba7ce42\\core-1.0.0\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_mintegral_more_offer_activity.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\layout\\mintegral_more_offer_activity.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\947833f03979c6d84fcd9a8feba7ce42\\core-1.0.0\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_mintegral_playercommon_player_view.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\layout\\mintegral_playercommon_player_view.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_mintegral_cm_forward_selected.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\drawable-hdpi-v4\\mintegral_cm_forward_selected.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_install_btn_bk.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_install_btn_bk.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_tt_new_play_video.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable-xhdpi-v4\\tt_new_play_video.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_mintegral_reward_endcard_native_hor.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\layout\\mintegral_reward_endcard_native_hor.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_video_draw_btn_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_video_draw_btn_layout.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_tt_shadow_fullscreen_top.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable-xhdpi-v4\\tt_shadow_fullscreen_top.9.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_tt_titlebar_close_for_dark.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable-xhdpi-v4\\tt_titlebar_close_for_dark.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_mintegral_reward_end_close_shape_oval.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\drawable\\mintegral_reward_end_close_shape_oval.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_mintegral_cm_backward_nor.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\drawable-hdpi-v4\\mintegral_cm_backward_nor.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\947833f03979c6d84fcd9a8feba7ce42\\core-1.0.0\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_activity_reward_and_full_video_bar.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_activity_reward_and_full_video_bar.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_activity_full_video.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_activity_full_video.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_backup_feed_vertical.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_backup_feed_vertical.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_mintegral_cm_refresh_nor.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\drawable-hdpi-v4\\mintegral_cm_refresh_nor.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\anim_mintegral_reward_activity_open.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\anim\\mintegral_reward_activity_open.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_backup_insert_layout2.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_backup_insert_layout2.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_mintegral_video_common_half_star.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\drawable-hdpi-v4\\mintegral_video_common_half_star.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4_wm_video_skip_icon.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\4f47e5f8dabe54a15c5e0aa54e6e260e\\jetified-TGSDKADWangmai.1.8.9\\res\\mipmap-xxhdpi-v4\\wm_video_skip_icon.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4_wm_game_item_bg.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\4f47e5f8dabe54a15c5e0aa54e6e260e\\jetified-TGSDKADWangmai.1.8.9\\res\\mipmap-xxhdpi-v4\\wm_game_item_bg.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_tt_ad_logo.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable-xhdpi-v4\\tt_ad_logo.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_wm_pop_ad.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\4f47e5f8dabe54a15c5e0aa54e6e260e\\jetified-TGSDKADWangmai.1.8.9\\res\\layout\\wm_pop_ad.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_mintegral_reward_shape_end_pager.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\drawable\\mintegral_reward_shape_end_pager.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_tt_shrink_fullscreen.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable-xhdpi-v4\\tt_shrink_fullscreen.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_tt_close_move_details_normal.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable-xhdpi-v4\\tt_close_move_details_normal.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\947833f03979c6d84fcd9a8feba7ce42\\core-1.0.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gdt_ic_exit_fullscreen.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\19d97606929ca96ff1fa83076d09a8b4\\TGSDKADGuangdiantong.1.8.9\\res\\drawable-hdpi-v4\\gdt_ic_exit_fullscreen.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_titlebar_close_seletor_for_dark.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_titlebar_close_seletor_for_dark.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_gdt_ic_express_volume_on.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\19d97606929ca96ff1fa83076d09a8b4\\TGSDKADGuangdiantong.1.8.9\\res\\drawable-xxhdpi-v4\\gdt_ic_express_volume_on.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_wm_btncorner.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\4f47e5f8dabe54a15c5e0aa54e6e260e\\jetified-TGSDKADWangmai.1.8.9\\res\\drawable\\wm_btncorner.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_wm_video_btn_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\4f47e5f8dabe54a15c5e0aa54e6e260e\\jetified-TGSDKADWangmai.1.8.9\\res\\drawable\\wm_video_btn_bg.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_gdt_ic_play.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\19d97606929ca96ff1fa83076d09a8b4\\TGSDKADGuangdiantong.1.8.9\\res\\drawable-xxhdpi-v4\\gdt_ic_play.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_wm_game_tab_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\4f47e5f8dabe54a15c5e0aa54e6e260e\\jetified-TGSDKADWangmai.1.8.9\\res\\layout\\wm_game_tab_layout.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_mintegral_reward_endcard_native_land.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\layout\\mintegral_reward_endcard_native_land.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_loading_alert.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\layout\\loading_alert.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gdt_ic_volume_on.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\19d97606929ca96ff1fa83076d09a8b4\\TGSDKADGuangdiantong.1.8.9\\res\\drawable-hdpi-v4\\gdt_ic_volume_on.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_mintegral_interstitial_over.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\drawable\\mintegral_interstitial_over.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_wm_game_detail_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\4f47e5f8dabe54a15c5e0aa54e6e260e\\jetified-TGSDKADWangmai.1.8.9\\res\\layout\\wm_game_detail_layout.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_mintegral_cm_backward_disabled.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\drawable-hdpi-v4\\mintegral_cm_backward_disabled.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gdt_ic_express_volume_off.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\19d97606929ca96ff1fa83076d09a8b4\\TGSDKADGuangdiantong.1.8.9\\res\\drawable-hdpi-v4\\gdt_ic_express_volume_off.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_tt_star_full_bg.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable-xhdpi-v4\\tt_star_full_bg.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gdt_ic_express_enter_fullscreen.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\19d97606929ca96ff1fa83076d09a8b4\\TGSDKADGuangdiantong.1.8.9\\res\\drawable-hdpi-v4\\gdt_ic_express_enter_fullscreen.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_backup_ad.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_backup_ad.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_yomob_vioceoff.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\f843c61ebc02ad1f1b3c334090726c8c\\jetified-TGSDKADYoads.1.8.9\\res\\drawable\\yomob_vioceoff.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\xml_gdt_file_path.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\19d97606929ca96ff1fa83076d09a8b4\\TGSDKADGuangdiantong.1.8.9\\res\\xml\\gdt_file_path.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_tt_dislike_icon.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable-xhdpi-v4\\tt_dislike_icon.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_video_progress_drawable.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_video_progress_drawable.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gdt_ic_play.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\19d97606929ca96ff1fa83076d09a8b4\\TGSDKADGuangdiantong.1.8.9\\res\\drawable-hdpi-v4\\gdt_ic_play.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_backup_banner_layout2.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_backup_banner_layout2.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_tt_star_empty_bg.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable-xhdpi-v4\\tt_star_empty_bg.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_mintegral_bt_container.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\layout\\mintegral_bt_container.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_mintegral_cm_exits.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\drawable\\mintegral_cm_exits.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_appdownloader_detail_download_progress_bar_horizontal.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\appdownloader_detail_download_progress_bar_horizontal.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_top_full_1.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_top_full_1.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_mintegral_cm_exits_selected.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\drawable-hdpi-v4\\mintegral_cm_exits_selected.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_backup_banner_layout1.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_backup_banner_layout1.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_backup_feed_img_group.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_backup_feed_img_group.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_native_video_img_cover_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_native_video_img_cover_layout.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_tt_dislike_icon2.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable-xhdpi-v4\\tt_dislike_icon2.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4_icon_foreground.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\e08a8fd1e624c35ad31b54d3d747a250\\godot-lib.debug\\res\\mipmap-mdpi-v4\\icon_foreground.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_gdt_ic_progress_thumb_normal.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\19d97606929ca96ff1fa83076d09a8b4\\TGSDKADGuangdiantong.1.8.9\\res\\drawable-hdpi-v4\\gdt_ic_progress_thumb_normal.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_mintegral_cm_backward_selected.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\drawable-hdpi-v4\\mintegral_cm_backward_selected.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\1d849761628829d2295b320ffc5152e0\\media-1.0.0\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\947833f03979c6d84fcd9a8feba7ce42\\core-1.0.0\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_video_black_desc_gradient.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_video_black_desc_gradient.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_dislike_dialog_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_dislike_dialog_layout.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_downloading_expansion.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\e08a8fd1e624c35ad31b54d3d747a250\\godot-lib.debug\\res\\layout\\downloading_expansion.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\xml_yomob_paths.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\f843c61ebc02ad1f1b3c334090726c8c\\jetified-TGSDKADYoads.1.8.9\\res\\xml\\yomob_paths.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4_icon_foreground.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\e08a8fd1e624c35ad31b54d3d747a250\\godot-lib.debug\\res\\mipmap-xxxhdpi-v4\\icon_foreground.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_tt_ad_logo_reward_full.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable-xhdpi-v4\\tt_ad_logo_reward_full.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_gdt_ic_volume_off.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\19d97606929ca96ff1fa83076d09a8b4\\TGSDKADGuangdiantong.1.8.9\\res\\drawable-xxhdpi-v4\\gdt_ic_volume_off.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_tt_reward_dislike_icon.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable-xhdpi-v4\\tt_reward_dislike_icon.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\anim_tt_dislike_animation_dismiss.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\anim\\tt_dislike_animation_dismiss.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_wm_fullscreen_video_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\4f47e5f8dabe54a15c5e0aa54e6e260e\\jetified-TGSDKADWangmai.1.8.9\\res\\layout\\wm_fullscreen_video_layout.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_mintegral_reward_activity_video_templete_transparent.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\layout\\mintegral_reward_activity_video_templete_transparent.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_circle_solid_mian.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_circle_solid_mian.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_yomob_interstitial_land.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\f843c61ebc02ad1f1b3c334090726c8c\\jetified-TGSDKADYoads.1.8.9\\res\\layout\\yomob_interstitial_land.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_backup_btn_2.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_backup_btn_2.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_mintegral_interstitial_close.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\drawable-hdpi-v4\\mintegral_interstitial_close.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_backup_insert_layout3.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_backup_insert_layout3.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_tt_refreshing_video_textpage_normal.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable-xhdpi-v4\\tt_refreshing_video_textpage_normal.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_gdt_ic_express_close.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\19d97606929ca96ff1fa83076d09a8b4\\TGSDKADGuangdiantong.1.8.9\\res\\drawable-xxhdpi-v4\\gdt_ic_express_close.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_tt_white_lefterbackicon_titlebar.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable-xhdpi-v4\\tt_white_lefterbackicon_titlebar.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_mintegral_reward_sound_open.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\afe67975eb8d7de3107cae20e924080c\\jetified-TGSDKADMobvista.1.8.9\\res\\drawable-hdpi-v4\\mintegral_reward_sound_open.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4_wm_game_pop_bg.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\4f47e5f8dabe54a15c5e0aa54e6e260e\\jetified-TGSDKADWangmai.1.8.9\\res\\mipmap-xxhdpi-v4\\wm_game_pop_bg.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_yomob_vioceon.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\f843c61ebc02ad1f1b3c334090726c8c\\jetified-TGSDKADYoads.1.8.9\\res\\drawable\\yomob_vioceon.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_yomob_circle_black.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\f843c61ebc02ad1f1b3c334090726c8c\\jetified-TGSDKADYoads.1.8.9\\res\\drawable\\yomob_circle_black.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4_icon_background.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\e08a8fd1e624c35ad31b54d3d747a250\\godot-lib.debug\\res\\mipmap-mdpi-v4\\icon_background.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_tt_dislike_flowlayout_tv.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\layout\\tt_dislike_flowlayout_tv.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_ad_cover_btn_begin_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_ad_cover_btn_begin_bg.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\layout_wm_reward_act.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\4f47e5f8dabe54a15c5e0aa54e6e260e\\jetified-TGSDKADWangmai.1.8.9\\res\\layout\\wm_reward_act.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\mipmap_icon_background.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\e08a8fd1e624c35ad31b54d3d747a250\\godot-lib.debug\\res\\mipmap\\icon_background.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_video_traffic_continue_play_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_video_traffic_continue_play_bg.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_gdt_ic_seekbar_background.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\19d97606929ca96ff1fa83076d09a8b4\\TGSDKADGuangdiantong.1.8.9\\res\\drawable-xxhdpi-v4\\gdt_ic_seekbar_background.9.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_tt_shadow_lefterback_titlebar.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable-xhdpi-v4\\tt_shadow_lefterback_titlebar.png"
+    },
+    {
         "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\947833f03979c6d84fcd9a8feba7ce42\\core-1.0.0\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
-        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4_icon.png.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\e08a8fd1e624c35ad31b54d3d747a250\\godot-lib.debug\\res\\mipmap-mdpi-v4\\icon.png"
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_browser_download_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_browser_download_selector.xml"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\debug\\drawable_tt_seek_thumb_normal.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\8b17fe22ac268c9fdb130645d6cd4529\\jetified-open_ad_sdk.3.1.0.0\\res\\drawable\\tt_seek_thumb_normal.xml"
     }
 ]

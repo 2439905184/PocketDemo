@@ -1,4 +1,0 @@
-#Tue Sep 01 18:26:34 CST 2020
-base.0=F\:\\android_plugin\\android\\build\\build\\intermediates\\dex\\release\\mergeDexRelease\\out\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
