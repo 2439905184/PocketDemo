@@ -28,6 +28,4 @@
         <item name="android:textColor">@color/secondary_text_default_material_light</item>
         <item name="android:textSize">@dimen/notification_action_text_size</item>
     </style>
-    <style name="appdownloader_style_notification_text" parent="@android:style/TextAppearance.Material.Notification"/>
-    <style name="appdownloader_style_notification_title" parent="@android:style/TextAppearance.Material.Notification.Title"/>
 </resources>

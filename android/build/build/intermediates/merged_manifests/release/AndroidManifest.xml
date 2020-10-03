@@ -49,7 +49,6 @@
     <!-- If you want to add tags manually, do before it. -->
     <!-- WARNING: This should stay on a single line until the parsing code is improved. See GH-32414. -->
     <application
-        android:name="androidx.multidex.MultiDexApplication"
         android:allowBackup="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:icon="@mipmap/icon"
@@ -70,126 +69,6 @@
             android:name="plugins"
             android:value="plugins_value" />
         <!-- ${applicationId} -->
-        <provider
-            android:name="com.sigmob.sdk.SigmobXFileProvider"
-            android:authorities="com.sigmob.sdk.SigmobXFileProvider.sigprovider"
-            android:exported="false"
-            android:grantUriPermissions="true" >
-            <meta-data
-                android:name="android.support.FILE_PROVIDER_PATHS"
-                android:resource="@xml/sigmob_provider_paths" />
-        </provider>
-
-        <!-- Guangdiantong -->
-        <provider
-            android:name="androidx.core.content.FileProvider"
-            android:authorities="com.hh128h.android_plugin_godot_test.fileprovider"
-            android:exported="false"
-            android:grantUriPermissions="true" >
-            <meta-data
-                android:name="android.support.FILE_PROVIDER_PATHS"
-                android:resource="@xml/gdt_file_path" />
-        </provider>
-
-        <!-- Baidu -->
-        <provider
-            android:name="com.baidu.mobads.openad.FileProvider"
-            android:authorities="com.hh128h.android_plugin_godot_test.bd.provider"
-            android:exported="false"
-            android:grantUriPermissions="true" >
-            <meta-data
-                android:name="android.support.FILE_PROVIDER_PATHS"
-                android:resource="@xml/bd_file_paths" />
-        </provider>
-
-        <!-- Mobvista -->
-        <provider
-            android:name="com.mintegral.msdk.base.utils.MTGFileProvider"
-            android:authorities="com.hh128h.android_plugin_godot_test.mtgFileProvider"
-            android:exported="false"
-            android:grantUriPermissions="true" >
-            <meta-data
-                android:name="android.support.FILE_PROVIDER_PATHS"
-                android:resource="@xml/mtg_provider_paths" />
-        </provider>
-
-        <!-- HyTech For AndroidX -->
-        <provider
-            android:name="com.hytt.hyadxopensdk.fileprovider.HyAdXOpenFileProvider"
-            android:authorities="com.hh128h.android_plugin_godot_test.HyAdXOpenFileProvider"
-            android:exported="false"
-            android:grantUriPermissions="true" >
-            <meta-data
-                android:name="android.support.FILE_PROVIDER_PATHS"
-                android:resource="@xml/hytech_provider_paths" />
-        </provider>
-        <!--
-        HyTech For Android Support
-        <provider
-            android:name="com.hytt.hyadxopensdk.fileprovider.v4.HyAdXOpenV4FileProvider"
-            android:authorities="${applicationId}.HyAdXOpenFileProvider"
-            android:exported="false"
-            android:grantUriPermissions="true">
-            <meta-data
-                android:name="android.support.FILE_PROVIDER_PATHS"
-                android:resource="@xml/hytech_provider_paths" />
-        </provider>
-        -->
-
-
-        <!-- UniPlay -->
-        <provider
-            android:name="com.uniplay.adsdk.UniPlayFileProvider"
-            android:authorities="com.hh128h.android_plugin_godot_test.uniplay.fileprovider"
-            android:exported="false"
-            android:grantUriPermissions="true" >
-            <meta-data
-                android:name="android.support.FILE_PROVIDER_PATHS"
-                android:resource="@xml/uniplay_file_path" />
-        </provider>
-
-        <!-- Yoads -->
-        <provider
-            android:name="com.yomob.yomobads.ad.YomobFileProvider"
-            android:authorities="com.hh128h.android_plugin_godot_test.yomob.fileprovider"
-            android:exported="false"
-            android:grantUriPermissions="true" >
-            <meta-data
-                android:name="android.support.FILE_PROVIDER_PATHS"
-                android:resource="@xml/yomob_paths" />
-        </provider>
-
-        <!-- Wangmai -->
-        <provider
-            android:name="com.wangmai.appsdkdex.WangMaiFileProvider"
-            android:authorities="com.hh128h.android_plugin_godot_test.fileprovider"
-            android:exported="false"
-            android:grantUriPermissions="true" >
-            <meta-data
-                android:name="android.support.FILE_PROVIDER_PATHS"
-                android:resource="@xml/yomob_wm_file_paths" />
-        </provider>
-        <!-- ByteDance -->
-        <provider
-            android:name="com.bytedance.sdk.openadsdk.TTFileProvider"
-            android:authorities="com.hh128h.android_plugin_godot_test.TTFileProvider"
-            android:exported="false"
-            android:grantUriPermissions="true" >
-            <meta-data
-                android:name="android.support.FILE_PROVIDER_PATHS"
-                android:resource="@xml/tt_file_paths" />
-        </provider>
-
-        <!-- OneWay -->
-        <provider
-            android:name="mobi.oneway.export.OWProvider"
-            android:authorities="com.hh128h.android_plugin_godot_test.OWProvider"
-            android:exported="false"
-            android:grantUriPermissions="true" >
-            <meta-data
-                android:name="android.support.FILE_PROVIDER_PATHS"
-                android:resource="@xml/ow_file_paths" />
-        </provider>
 
         <activity
             android:name="com.godot.game.GodotApp"
@@ -215,6 +94,17 @@
         <!-- Custom application XML added by add-ons. -->
         <!-- CHUNK_APPLICATION_BEGIN -->
         <!-- CHUNK_APPLICATION_END -->
+
+        <provider
+            android:name="com.sigmob.sdk.SigmobXFileProvider"
+            android:authorities="com.hh128h.android_plugin_godot_test"
+            android:exported="false"
+            android:grantUriPermissions="true" >
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/sigmob_provider_paths" />
+            <!-- android:resource="@xml/sigmob_provider_paths" -->
+        </provider>
 
         <meta-data
             android:name="org.godotengine.plugin.v1.GodotYomob"

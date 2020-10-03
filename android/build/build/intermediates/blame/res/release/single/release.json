@@ -148,6 +148,10 @@
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\94cba374a529e32e15017b9cb1f583e7\\godot-lib.release\\res\\mipmap\\icon.png"
     },
     {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\release\\xml_sigmob_provider_paths.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\734070d0531a0d9208ae01301602be37\\jetified-Yomob-debug\\res\\xml\\sigmob_provider_paths.xml"
+    },
+    {
         "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_icon.xml.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\94cba374a529e32e15017b9cb1f583e7\\godot-lib.release\\res\\mipmap-anydpi-v26\\icon.xml"
     },
@@ -224,12 +228,12 @@
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\947833f03979c6d84fcd9a8feba7ce42\\core-1.0.0\\res\\layout-v21\\notification_action.xml"
     },
     {
-        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4_icon_foreground.png.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\94cba374a529e32e15017b9cb1f583e7\\godot-lib.release\\res\\mipmap-xhdpi-v4\\icon_foreground.png"
-    },
-    {
         "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4_icon_foreground.png.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\94cba374a529e32e15017b9cb1f583e7\\godot-lib.release\\res\\mipmap-xxhdpi-v4\\icon_foreground.png"
+    },
+    {
+        "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4_icon_foreground.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\94cba374a529e32e15017b9cb1f583e7\\godot-lib.release\\res\\mipmap-xhdpi-v4\\icon_foreground.png"
     },
     {
         "merged": "F:\\android_plugin\\android\\build\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4_icon.png.flat",
