@@ -77,5 +77,21 @@ func _on_getCtx_pressed():
 
 
 func _on_getGodot2_pressed():
+# warning-ignore:return_value_discarded
 	get_tree().change_scene("res://Yomob.tscn")
 	pass # Replace with function body.
+
+
+func _on_Button_pressed():
+	var I_has=Engine.has_singleton("StrFromTest")
+	if I_has:
+		OS.alert("存在str from test单利")
+		var I_Strfrom_aar=Engine.get_singleton("StrFromTest")
+		var a=I_Strfrom_aar.getStr()
+		OS.alert(a)
+	else:
+		OS.alert("不存在单利")
+	
+
+	
+	pass

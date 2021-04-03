@@ -13,7 +13,6 @@ buildscript {
 //CHUNK_BUILDSCRIPT_REPOSITORIES_BEGIN
 //CHUNK_BUILDSCRIPT_REPOSITORIES_END
     }
-
     dependencies {
         classpath libraries.androidGradlePlugin
         classpath libraries.kotlinGradlePlugin
@@ -86,56 +85,8 @@ android {
         sourceCompatibility 1.8
         targetCompatibility 1.8
     }
-	defaultConfig {
 
-  applicationId "com.hh128h.android_plugin_godot_test"
-
-}
-	packagingOptions {
-		merge   '**/res/**'
-		merge   'AndroidManifest.orig.xml'
-		merge   'classes.jar'
-		merge   '**/libs/**'
-		merge    'AndroidManifest.xml'
-		merge    'R.txt'
-		merge    '**/assets/**'
-		merge    'proguard.txt'
-
-
-
-
-		
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-		exclude 'res/values-hu/values-hu.xml'
-
-    }
     defaultConfig {
-	 multiDexEnabled false
         // The default ignore pattern for the 'assets' directory includes hidden files and directories which are used by Godot projects.
         aaptOptions {
             ignoreAssetsPattern "!.svn:!.git:!.ds_store:!*.scc:<dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"

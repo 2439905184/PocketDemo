@@ -5,21 +5,6 @@
     android:versionCode="1"
     android:versionName="1.0"
     android:installLocation="auto" >
-	
-    <uses-permission android:name="android.permission.INTERNET" />
-    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
-    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
-    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
-    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-    <uses-permission android:name="android.permission.GET_TASKS" />
-    <uses-permission android:name="android.permission.WAKE_LOCK" />
-    <uses-permission android:name="android.permission.WRITE_SETTINGSWAKE_LOCK" />
-
 
     <!-- Adding custom text to the manifest is fine, but do it outside the custom USER and APPLICATION BEGIN/END comments, -->
     <!-- as that gets rewritten. -->
@@ -38,16 +23,12 @@
 <!-- Custom user permissions XML added by add-ons. It's recommended to add them from the export preset, though. -->
 <!--CHUNK_USER_PERMISSIONS_BEGIN-->
 <!--CHUNK_USER_PERMISSIONS_END-->
-<!--android:label="@string/godot_project_name_string"-->
+
     <!-- Any tag in this line after android:icon will be erased when doing custom builds. -->
     <!-- If you want to add tags manually, do before it. -->
     <!-- WARNING: This should stay on a single line until the parsing code is improved. See GH-32414. -->
-    <application 
-	tools:replace="android:label"
-	android:label="android_plugin"
-	android:allowBackup="true" tools:ignore="GoogleAppIndexingWarning" 
-	android:icon="@mipmap/icon">
-			
+    <application android:label="@string/godot_project_name_string" android:allowBackup="false" tools:ignore="GoogleAppIndexingWarning" android:icon="@mipmap/icon">
+
         <!-- The following metadata values are replaced when Godot exports, modifying them here has no effect. -->
         <!-- Do these changes in the export preset. Adding new ones is fine. -->
 
@@ -60,7 +41,6 @@
         <meta-data
             android:name="plugins"
             android:value="plugins_value"/>
-<!--${applicationId}-->
 
         <activity
             android:name=".GodotApp"

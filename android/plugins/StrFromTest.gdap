@@ -1,0 +1,4 @@
+[config]
+name="StrFromTest"
+binary_type="local"
+binary="strfromtest-debug.aar"

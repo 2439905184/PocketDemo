@@ -7,199 +7,132 @@
 7
 8    <uses-sdk
 9        android:minSdkVersion="18"
-9-->F:\android_plugin\android\build\AndroidManifest.xml
+9-->F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml
 10        android:targetSdkVersion="29" />
-10-->F:\android_plugin\android\build\AndroidManifest.xml
+10-->F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml
 11
-12    <uses-permission android:name="android.permission.INTERNET" />
-12-->F:\android_plugin\android\build\AndroidManifest.xml:9:5-67
-12-->F:\android_plugin\android\build\AndroidManifest.xml:9:22-64
-13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-13-->F:\android_plugin\android\build\AndroidManifest.xml:10:5-79
-13-->F:\android_plugin\android\build\AndroidManifest.xml:10:22-76
-14    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-14-->F:\android_plugin\android\build\AndroidManifest.xml:11:5-76
-14-->F:\android_plugin\android\build\AndroidManifest.xml:11:22-73
-15    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
-15-->F:\android_plugin\android\build\AndroidManifest.xml:12:5-75
-15-->F:\android_plugin\android\build\AndroidManifest.xml:12:22-72
-16    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-16-->F:\android_plugin\android\build\AndroidManifest.xml:13:5-81
-16-->F:\android_plugin\android\build\AndroidManifest.xml:13:22-78
-17    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-17-->F:\android_plugin\android\build\AndroidManifest.xml:14:5-79
-17-->F:\android_plugin\android\build\AndroidManifest.xml:14:22-76
-18    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-18-->F:\android_plugin\android\build\AndroidManifest.xml:15:5-81
-18-->F:\android_plugin\android\build\AndroidManifest.xml:15:22-78
-19    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
-19-->F:\android_plugin\android\build\AndroidManifest.xml:16:5-83
-19-->F:\android_plugin\android\build\AndroidManifest.xml:16:22-80
-20    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
-20-->F:\android_plugin\android\build\AndroidManifest.xml:17:5-76
-20-->F:\android_plugin\android\build\AndroidManifest.xml:17:22-73
-21    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-21-->F:\android_plugin\android\build\AndroidManifest.xml:18:5-80
-21-->F:\android_plugin\android\build\AndroidManifest.xml:18:22-77
-22    <uses-permission android:name="android.permission.GET_TASKS" />
-22-->F:\android_plugin\android\build\AndroidManifest.xml:19:5-68
-22-->F:\android_plugin\android\build\AndroidManifest.xml:19:22-65
-23    <uses-permission android:name="android.permission.WAKE_LOCK" />
-23-->F:\android_plugin\android\build\AndroidManifest.xml:20:5-68
-23-->F:\android_plugin\android\build\AndroidManifest.xml:20:22-65
-24    <uses-permission android:name="android.permission.WRITE_SETTINGSWAKE_LOCK" />
-24-->F:\android_plugin\android\build\AndroidManifest.xml:21:5-82
-24-->F:\android_plugin\android\build\AndroidManifest.xml:21:22-79
+12    <!-- Adding custom text to the manifest is fine, but do it outside the custom USER and APPLICATION BEGIN/END comments, -->
+13    <!-- as that gets rewritten. -->
+14
+15    <supports-screens
+15-->F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:12:5-16:40
+16        android:largeScreens="true"
+16-->F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:15:9-36
+17        android:normalScreens="true"
+17-->F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:14:9-37
+18        android:smallScreens="true"
+18-->F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:13:9-36
+19        android:xlargeScreens="true" />
+19-->F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:16:9-37
+20
+21    <!-- glEsVersion is modified by the exporter, changing this value here has no effect. -->
+22    <uses-feature
+22-->F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:19:5-21:35
+23        android:glEsVersion="0x00020000"
+23-->F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:20:9-41
+24        android:required="true" />
+24-->F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:21:9-32
 25
-26    <!-- Adding custom text to the manifest is fine, but do it outside the custom USER and APPLICATION BEGIN/END comments, -->
-27    <!-- as that gets rewritten. -->
-28
-29    <supports-screens
-29-->F:\android_plugin\android\build\AndroidManifest.xml:27:5-31:40
-30        android:largeScreens="true"
-30-->F:\android_plugin\android\build\AndroidManifest.xml:30:9-36
-31        android:normalScreens="true"
-31-->F:\android_plugin\android\build\AndroidManifest.xml:29:9-37
-32        android:smallScreens="true"
-32-->F:\android_plugin\android\build\AndroidManifest.xml:28:9-36
-33        android:xlargeScreens="true" />
-33-->F:\android_plugin\android\build\AndroidManifest.xml:31:9-37
-34
-35    <!-- glEsVersion is modified by the exporter, changing this value here has no effect. -->
-36    <uses-feature
-36-->F:\android_plugin\android\build\AndroidManifest.xml:34:5-36:35
-37        android:glEsVersion="0x00020000"
-37-->F:\android_plugin\android\build\AndroidManifest.xml:35:9-41
-38        android:required="true" />
-38-->F:\android_plugin\android\build\AndroidManifest.xml:36:9-32
-39
-40    <instrumentation
-40-->[godot-lib.debug.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\e08a8fd1e624c35ad31b54d3d747a250\godot-lib.debug\AndroidManifest.xml:11:5-15:57
-41        android:name=".GodotInstrumentation"
-41-->[godot-lib.debug.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\e08a8fd1e624c35ad31b54d3d747a250\godot-lib.debug\AndroidManifest.xml:12:9-45
-42        android:icon="@mipmap/icon"
-42-->[godot-lib.debug.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\e08a8fd1e624c35ad31b54d3d747a250\godot-lib.debug\AndroidManifest.xml:13:9-36
-43        android:label="@string/godot_project_name_string"
-43-->[godot-lib.debug.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\e08a8fd1e624c35ad31b54d3d747a250\godot-lib.debug\AndroidManifest.xml:14:9-58
-44        android:targetPackage="org.godotengine.godot" /> <!-- Custom user permissions XML added by add-ons. It's recommended to add them from the export preset, though. -->
-44-->[godot-lib.debug.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\e08a8fd1e624c35ad31b54d3d747a250\godot-lib.debug\AndroidManifest.xml:15:9-54
-45    <!-- CHUNK_USER_PERMISSIONS_BEGIN -->
-46    <!-- CHUNK_USER_PERMISSIONS_END -->
-47    <!-- android:label="@string/godot_project_name_string" -->
-48    <!-- Any tag in this line after android:icon will be erased when doing custom builds. -->
-49    <!-- If you want to add tags manually, do before it. -->
-50    <!-- WARNING: This should stay on a single line until the parsing code is improved. See GH-32414. -->
-51    <application
-51-->F:\android_plugin\android\build\AndroidManifest.xml:45:5-88:19
-52        android:allowBackup="true"
-52-->F:\android_plugin\android\build\AndroidManifest.xml:48:2-28
-53        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-53-->[androidx.core:core:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\947833f03979c6d84fcd9a8feba7ce42\core-1.0.0\AndroidManifest.xml:22:18-86
-54        android:debuggable="true"
-55        android:icon="@mipmap/icon"
-55-->F:\android_plugin\android\build\AndroidManifest.xml:49:2-29
-56        android:label="android_plugin"
-56-->F:\android_plugin\android\build\AndroidManifest.xml:47:2-32
-57        android:requestLegacyExternalStorage="true" >
-57-->[godot-lib.debug.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\e08a8fd1e624c35ad31b54d3d747a250\godot-lib.debug\AndroidManifest.xml:18:18-61
-58
-59        <!-- The following metadata values are replaced when Godot exports, modifying them here has no effect. -->
-60        <!-- Do these changes in the export preset. Adding new ones is fine. -->
+26    <instrumentation
+26-->[godot-lib.debug.aar] D:\.gradle\caches\transforms-2\files-2.1\e08a8fd1e624c35ad31b54d3d747a250\godot-lib.debug\AndroidManifest.xml:11:5-15:57
+27        android:name=".GodotInstrumentation"
+27-->[godot-lib.debug.aar] D:\.gradle\caches\transforms-2\files-2.1\e08a8fd1e624c35ad31b54d3d747a250\godot-lib.debug\AndroidManifest.xml:12:9-45
+28        android:icon="@mipmap/icon"
+28-->[godot-lib.debug.aar] D:\.gradle\caches\transforms-2\files-2.1\e08a8fd1e624c35ad31b54d3d747a250\godot-lib.debug\AndroidManifest.xml:13:9-36
+29        android:label="@string/godot_project_name_string"
+29-->[godot-lib.debug.aar] D:\.gradle\caches\transforms-2\files-2.1\e08a8fd1e624c35ad31b54d3d747a250\godot-lib.debug\AndroidManifest.xml:14:9-58
+30        android:targetPackage="org.godotengine.godot" />
+30-->[godot-lib.debug.aar] D:\.gradle\caches\transforms-2\files-2.1\e08a8fd1e624c35ad31b54d3d747a250\godot-lib.debug\AndroidManifest.xml:15:9-54
+31
+32    <meta-data
+32-->[strfromtest-debug.aar] D:\.gradle\caches\transforms-2\files-2.1\cb76069b0565d8dabfff2fc64b124ced\jetified-strfromtest-debug\AndroidManifest.xml:11:5-13:49
+33        android:name="org.godotengine.plugin.v1.StrFromTest"
+33-->[strfromtest-debug.aar] D:\.gradle\caches\transforms-2\files-2.1\cb76069b0565d8dabfff2fc64b124ced\jetified-strfromtest-debug\AndroidManifest.xml:12:9-61
+34        android:value="com.hh128.StrFromTest" /> <!-- Custom user permissions XML added by add-ons. It's recommended to add them from the export preset, though. -->
+34-->[strfromtest-debug.aar] D:\.gradle\caches\transforms-2\files-2.1\cb76069b0565d8dabfff2fc64b124ced\jetified-strfromtest-debug\AndroidManifest.xml:13:9-46
+35    <!-- CHUNK_USER_PERMISSIONS_BEGIN -->
+36    <!-- CHUNK_USER_PERMISSIONS_END -->
+37    <!-- Any tag in this line after android:icon will be erased when doing custom builds. -->
+38    <!-- If you want to add tags manually, do before it. -->
+39    <!-- WARNING: This should stay on a single line until the parsing code is improved. See GH-32414. -->
+40    <application
+40-->F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:30:5-68:19
+41        android:allowBackup="false"
+41-->F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:30:68-95
+42        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+42-->[androidx.core:core:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\947833f03979c6d84fcd9a8feba7ce42\core-1.0.0\AndroidManifest.xml:22:18-86
+43        android:debuggable="true"
+44        android:icon="@mipmap/icon"
+44-->F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:30:136-163
+45        android:label="@string/godot_project_name_string"
+45-->F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:30:18-67
+46        android:requestLegacyExternalStorage="true" >
+46-->[godot-lib.debug.aar] D:\.gradle\caches\transforms-2\files-2.1\e08a8fd1e624c35ad31b54d3d747a250\godot-lib.debug\AndroidManifest.xml:18:18-61
+47
+48        <!-- The following metadata values are replaced when Godot exports, modifying them here has no effect. -->
+49        <!-- Do these changes in the export preset. Adding new ones is fine. -->
+50
+51
+52        <!-- XR mode metadata. This is modified by the exporter based on the selected xr mode. DO NOT CHANGE the values here. -->
+53        <meta-data
+53-->F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:36:9-38:54
+54            android:name="xr_mode_metadata_name"
+54-->F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:37:13-49
+55            android:value="xr_mode_metadata_value" />
+55-->F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:38:13-51
+56
+57        <!-- Metadata populated at export time and used by Godot to figure out which plugins must be enabled. -->
+58        <meta-data
+58-->F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:41:9-43:44
+59            android:name="plugins"
+59-->F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:42:13-35
+60            android:value="plugins_value" />
+60-->F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:43:13-42
 61
-62
-63        <!-- XR mode metadata. This is modified by the exporter based on the selected xr mode. DO NOT CHANGE the values here. -->
-64        <meta-data
-64-->F:\android_plugin\android\build\AndroidManifest.xml:55:9-57:54
-65            android:name="xr_mode_metadata_name"
-65-->F:\android_plugin\android\build\AndroidManifest.xml:56:13-49
-66            android:value="xr_mode_metadata_value" />
-66-->F:\android_plugin\android\build\AndroidManifest.xml:57:13-51
-67
-68        <!-- Metadata populated at export time and used by Godot to figure out which plugins must be enabled. -->
-69        <meta-data
-69-->F:\android_plugin\android\build\AndroidManifest.xml:60:9-62:44
-70            android:name="plugins"
-70-->F:\android_plugin\android\build\AndroidManifest.xml:61:13-35
-71            android:value="plugins_value" />
-71-->F:\android_plugin\android\build\AndroidManifest.xml:62:13-42
-72        <!-- ${applicationId} -->
-73
-74        <activity
-74-->F:\android_plugin\android\build\AndroidManifest.xml:65:9-82:20
-75            android:name="com.godot.game.GodotApp"
-75-->F:\android_plugin\android\build\AndroidManifest.xml:66:13-37
-76            android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize|density|keyboard|navigation|screenLayout|uiMode"
-76-->F:\android_plugin\android\build\AndroidManifest.xml:71:13-141
-77            android:label="@string/godot_project_name_string"
-77-->F:\android_plugin\android\build\AndroidManifest.xml:67:13-62
-78            android:launchMode="singleTask"
-78-->F:\android_plugin\android\build\AndroidManifest.xml:69:13-44
-79            android:resizeableActivity="false"
-79-->F:\android_plugin\android\build\AndroidManifest.xml:72:13-47
-80            android:screenOrientation="landscape"
-80-->F:\android_plugin\android\build\AndroidManifest.xml:70:13-50
-81            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
-81-->F:\android_plugin\android\build\AndroidManifest.xml:68:13-77
+62        <activity
+62-->F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:45:9-62:20
+63            android:name="com.godot.game.GodotApp"
+63-->F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:46:13-37
+64            android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize|density|keyboard|navigation|screenLayout|uiMode"
+64-->F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:51:13-141
+65            android:label="@string/godot_project_name_string"
+65-->F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:47:13-62
+66            android:launchMode="singleTask"
+66-->F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:49:13-44
+67            android:resizeableActivity="false"
+67-->F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:52:13-47
+68            android:screenOrientation="landscape"
+68-->F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:50:13-50
+69            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
+69-->F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:48:13-77
+70
+71            <!-- Focus awareness metadata populated at export time if the user enables it in the 'Xr Features' section. -->
+72            <meta-data
+72-->F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:56:13-107
+73                android:name="com.oculus.vr.focusaware"
+73-->F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:56:24-63
+74                android:value="oculus_focus_aware_value" />
+74-->F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:56:64-104
+75
+76            <intent-filter>
+76-->F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:58:13-61:29
+77                <action android:name="android.intent.action.MAIN" />
+77-->F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:59:17-69
+77-->F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:59:25-66
+78
+79                <category android:name="android.intent.category.LAUNCHER" />
+79-->F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:60:17-77
+79-->F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:60:27-74
+80            </intent-filter>
+81        </activity>
 82
-83            <!-- Focus awareness metadata populated at export time if the user enables it in the 'Xr Features' section. -->
-84            <meta-data
-84-->F:\android_plugin\android\build\AndroidManifest.xml:76:13-107
-85                android:name="com.oculus.vr.focusaware"
-85-->F:\android_plugin\android\build\AndroidManifest.xml:76:24-63
-86                android:value="oculus_focus_aware_value" />
-86-->F:\android_plugin\android\build\AndroidManifest.xml:76:64-104
-87
-88            <intent-filter>
-88-->F:\android_plugin\android\build\AndroidManifest.xml:78:13-81:29
-89                <action android:name="android.intent.action.MAIN" />
-89-->F:\android_plugin\android\build\AndroidManifest.xml:79:17-69
-89-->F:\android_plugin\android\build\AndroidManifest.xml:79:25-66
-90
-91                <category android:name="android.intent.category.LAUNCHER" />
-91-->F:\android_plugin\android\build\AndroidManifest.xml:80:17-77
-91-->F:\android_plugin\android\build\AndroidManifest.xml:80:27-74
-92            </intent-filter>
-93        </activity>
-94
-95        <!-- Custom application XML added by add-ons. -->
-96        <!-- CHUNK_APPLICATION_BEGIN -->
-97        <!-- CHUNK_APPLICATION_END -->
-98
-99        <service android:name="org.godotengine.godot.GodotDownloaderService" />
-99-->[godot-lib.debug.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\e08a8fd1e624c35ad31b54d3d747a250\godot-lib.debug\AndroidManifest.xml:19:9-80
-99-->[godot-lib.debug.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\e08a8fd1e624c35ad31b54d3d747a250\godot-lib.debug\AndroidManifest.xml:19:18-77
-100
-101        <provider
-101-->[Yomob-debug.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\734070d0531a0d9208ae01301602be37\jetified-Yomob-debug\AndroidManifest.xml:26:9-35:20
-102            android:name="com.sigmob.sdk.SigmobXFileProvider"
-102-->[Yomob-debug.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\734070d0531a0d9208ae01301602be37\jetified-Yomob-debug\AndroidManifest.xml:27:13-62
-103            android:authorities="com.hh128h.android_plugin_godot_test"
-103-->[Yomob-debug.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\734070d0531a0d9208ae01301602be37\jetified-Yomob-debug\AndroidManifest.xml:28:13-71
-104            android:exported="false"
-104-->[Yomob-debug.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\734070d0531a0d9208ae01301602be37\jetified-Yomob-debug\AndroidManifest.xml:29:13-37
-105            android:grantUriPermissions="true" >
-105-->[Yomob-debug.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\734070d0531a0d9208ae01301602be37\jetified-Yomob-debug\AndroidManifest.xml:30:13-47
-106            <meta-data
-106-->[Yomob-debug.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\734070d0531a0d9208ae01301602be37\jetified-Yomob-debug\AndroidManifest.xml:31:13-33:65
-107                android:name="android.support.FILE_PROVIDER_PATHS"
-107-->[Yomob-debug.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\734070d0531a0d9208ae01301602be37\jetified-Yomob-debug\AndroidManifest.xml:32:17-67
-108                android:resource="@xml/sigmob_provider_paths" />
-108-->[Yomob-debug.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\734070d0531a0d9208ae01301602be37\jetified-Yomob-debug\AndroidManifest.xml:33:17-62
-109            <!-- android:resource="@xml/sigmob_provider_paths" -->
-110        </provider>
-111
-112        <meta-data
-112-->[Yomob-debug.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\734070d0531a0d9208ae01301602be37\jetified-Yomob-debug\AndroidManifest.xml:37:9-39:66
-113            android:name="org.godotengine.plugin.v1.GodotYomob"
-113-->[Yomob-debug.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\734070d0531a0d9208ae01301602be37\jetified-Yomob-debug\AndroidManifest.xml:38:13-64
-114            android:value="com.hh128.MyYomobAdTest.GodotYomob" />
-114-->[Yomob-debug.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\734070d0531a0d9208ae01301602be37\jetified-Yomob-debug\AndroidManifest.xml:39:13-63
-115        <meta-data
-115-->[GodotHelloPlugin-debug.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\cddddd7e2af10a98516318381467035c\GodotHelloPlugin-debug\AndroidManifest.xml:12:9-14:69
-116            android:name="org.godotengine.plugin.v1.HelloGodot"
-116-->[GodotHelloPlugin-debug.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\cddddd7e2af10a98516318381467035c\GodotHelloPlugin-debug\AndroidManifest.xml:13:13-64
-117            android:value="com.hh128.GodotHelloPlugin.HelloGodot" />
-117-->[GodotHelloPlugin-debug.aar] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\cddddd7e2af10a98516318381467035c\GodotHelloPlugin-debug\AndroidManifest.xml:14:13-66
-118    </application>
-119
-120</manifest>
+83        <!-- Custom application XML added by add-ons. -->
+84        <!-- CHUNK_APPLICATION_BEGIN -->
+85        <!-- CHUNK_APPLICATION_END -->
+86
+87        <service android:name="org.godotengine.godot.GodotDownloaderService" />
+87-->[godot-lib.debug.aar] D:\.gradle\caches\transforms-2\files-2.1\e08a8fd1e624c35ad31b54d3d747a250\godot-lib.debug\AndroidManifest.xml:19:9-80
+87-->[godot-lib.debug.aar] D:\.gradle\caches\transforms-2\files-2.1\e08a8fd1e624c35ad31b54d3d747a250\godot-lib.debug\AndroidManifest.xml:19:18-77
+88    </application>
+89
+90</manifest>
