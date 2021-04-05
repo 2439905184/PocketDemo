@@ -7,7 +7,7 @@ func _on_Button_pressed():
 		OS.alert("存在str from test单利")
 		I_aar=Engine.get_singleton("StrFromTest")
 		$has.text="has=true"
-		I_aar.connect("adFailed","self","InterAdFailed")
+		I_aar.connect("adFailed",self,"InterAdFailed")
 		#var a=I_aar.getStr()
 		#OS.alert(a)
 	else:
@@ -23,7 +23,7 @@ func _on_init_pressed():
 
 
 func _on_showad_pressed():
-	I_aar.showAd()
+	I_aar.showInterAd()
 	pass # Replace with function body.
 
 
