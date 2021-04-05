@@ -4,7 +4,7 @@
             "outputFile": "F:\\work\\GodotAndroidPlugin\\android\\build\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hy\\values-hy.xml",
             "map": [
                 {
-                    "source": "D:\\.gradle\\caches\\transforms-2\\files-2.1\\947833f03979c6d84fcd9a8feba7ce42\\core-1.0.0\\res\\values-hy\\values-hy.xml",
+                    "source": "F:\\GradleCache\\caches\\transforms-2\\files-2.1\\68c3428ba3d7b5bf9d48c54e34eed987\\core-1.0.0\\res\\values-hy\\values-hy.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

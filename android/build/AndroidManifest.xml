@@ -26,9 +26,33 @@
 
     <!-- Any tag in this line after android:icon will be erased when doing custom builds. -->
     <!-- If you want to add tags manually, do before it. -->
+	<!-- android:label="@string/godot_project_name_string"-->
     <!-- WARNING: This should stay on a single line until the parsing code is improved. See GH-32414. -->
-    <application android:label="@string/godot_project_name_string" android:allowBackup="false" tools:ignore="GoogleAppIndexingWarning" android:icon="@mipmap/icon">
+    <application tools:replace="android:label" android:label="@string/godot_project_name_string"  android:allowBackup="false"  tools:ignore="GoogleAppIndexingWarning"  android:icon="@mipmap/icon">
+ <provider
+            android:name="com.qq.e.comm.GDTFileProvider"
+            android:authorities="${applicationId}.gdt.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/gdt_file_path" />
+        </provider>
 
+        <provider
+            android:name="com.bytedance.sdk.openadsdk.TTFileProvider"
+            android:authorities="${applicationId}.TTFileProvider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/byte_file_paths" />
+        </provider>
+
+        <provider
+            android:name="com.bytedance.sdk.openadsdk.multipro.TTMultiProvider"
+            android:authorities="${applicationId}.TTMultiProvider"
+            android:exported="false" />
         <!-- The following metadata values are replaced when Godot exports, modifying them here has no effect. -->
         <!-- Do these changes in the export preset. Adding new ones is fine. -->
 
@@ -52,13 +76,15 @@
             android:resizeableActivity="false"
             tools:ignore="UnusedAttribute" >
 
-            <!-- Focus awareness metadata populated at export time if the user enables it in the 'Xr Features' section. -->
-            <meta-data android:name="com.oculus.vr.focusaware" android:value="oculus_focus_aware_value" />
+            <!-- Focus awareness metadata is updated at export time if the user enables it in the 'Xr Features' section. -->
+            <meta-data android:name="com.oculus.vr.focusaware" android:value="false" />
 
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+			   
+
         </activity>
 
 <!-- Custom application XML added by add-ons. -->

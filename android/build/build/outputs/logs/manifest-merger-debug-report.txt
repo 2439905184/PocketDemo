@@ -1,39 +1,75 @@
 -- Merging decision tree log ---
+provider#com.qq.e.comm.GDTFileProvider
+INJECTED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:32:2-40:20
+	android:grantUriPermissions
+		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:36:13-47
+	android:authorities
+		INJECTED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml
+		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:34:13-68
+	android:exported
+		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:33:13-57
+provider#com.bytedance.sdk.openadsdk.TTFileProvider
+INJECTED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:42:9-50:20
+	android:grantUriPermissions
+		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:46:13-47
+	android:authorities
+		INJECTED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml
+		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:44:13-66
+	android:exported
+		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:45:13-37
+	android:name
+		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:43:13-70
+provider#com.bytedance.sdk.openadsdk.multipro.TTMultiProvider
+INJECTED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:52:9-55:40
+	android:authorities
+		INJECTED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml
+		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:54:13-67
+	android:exported
+		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:55:13-37
+	android:name
+		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:53:13-80
 manifest
-ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:2:1-70:12
-INJECTED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:2:1-70:12
-INJECTED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:2:1-70:12
-INJECTED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:2:1-70:12
-MERGED from [godot-lib.debug.aar] D:\.gradle\caches\transforms-2\files-2.1\e08a8fd1e624c35ad31b54d3d747a250\godot-lib.debug\AndroidManifest.xml:2:1-22:12
-MERGED from [strfromtest-debug.aar] D:\.gradle\caches\transforms-2\files-2.1\cb76069b0565d8dabfff2fc64b124ced\jetified-strfromtest-debug\AndroidManifest.xml:2:1-15:12
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\72b4d95a0e8b43ee4215c0c4e8b0fb72\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.fragment:fragment:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\5debf09d2541e0ccacc6adc6a4fdd105\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\3a2f8d614676183a411d5d0a5ccffd59\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\0cb8e9b70eb18e6366ea818d50894e47\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\3ae307e411008a5abe35b795699599f8\loader-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.media:media:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\1d849761628829d2295b320ffc5152e0\media-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\fa1cda0d762347a9cb7d79eaeeb289e8\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\366555e0658123cedccaf0883b3651bc\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\dab48ee8d761a62192a7c0c78bc8a1aa\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\850bf142cefab6ec1f243621257bf44e\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\f6f80dc4871d749a0cd888fb14aba5f3\customview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\7d767b2deaf02a4aa041ae0685eb6b5e\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\263114587795ce3a15b18060381f86be\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\947833f03979c6d84fcd9a8feba7ce42\core-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\bc6997ad05a1af84d78303dcea3eae39\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\58990e31d8d4b533b7ff983aa60b00fc\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\53bf8556c8b730ae1255779c2895d59b\print-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\619de63d53cf935c91c581371b6a6faa\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] D:\.gradle\caches\transforms-2\files-2.1\041f24b39a6e5bfd79a1db377c03d8b1\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] D:\.gradle\caches\transforms-2\files-2.1\bbd5c89acb3086548b6dfeb7a06e205e\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\1f0eea5572e817d886a572edc39d8e7d\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\157e39bb99c978d081f37e13d2ab360e\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\.gradle\caches\transforms-2\files-2.1\7f304c13f8d08f7c389d2cae44e8a25c\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] D:\.gradle\caches\transforms-2\files-2.1\9180283ae214e030164cb294841a7487\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] D:\.gradle\caches\transforms-2\files-2.1\0530fd952fd1ec33fcda9664c94741cf\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:2:1-70:12
-INJECTED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:2:1-70:12
-INJECTED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:2:1-70:12
+ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:2:1-96:12
+INJECTED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:2:1-96:12
+INJECTED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:2:1-96:12
+INJECTED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:2:1-96:12
+MERGED from [godot-lib.debug.aar] F:\GradleCache\caches\transforms-2\files-2.1\39fb1927bdaf3b04bb3ddf369398dd39\godot-lib.debug\AndroidManifest.xml:2:1-22:12
+MERGED from [strfromtest-debug.aar] F:\GradleCache\caches\transforms-2\files-2.1\79001b099309b396b25ea8e9e0b6eb9d\jetified-strfromtest-debug\AndroidManifest.xml:2:1-27:12
+MERGED from [le_base_2_1_3.aar] F:\GradleCache\caches\transforms-2\files-2.1\27e836ee6966521a5bdf22fb35b40b77\le_base_2_1_3\AndroidManifest.xml:2:1-14:12
+MERGED from [le_ad_2_1_3.aar] F:\GradleCache\caches\transforms-2\files-2.1\e3820b33f1a604a61e4238cc54193734\le_ad_2_1_3\AndroidManifest.xml:2:1-19:12
+MERGED from [miit_mdid_1.0.10.aar] F:\GradleCache\caches\transforms-2\files-2.1\79cce5300dc3824df37c1e2ade9e2675\jetified-miit_mdid_1.0.10\AndroidManifest.xml:1:1-10:12
+MERGED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:2:1-167:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\d266de85e737279070036dca8e6ea242\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\dd6dc9b3ae8d7dfa01f14f3678041640\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\62a7a1f8fc5618098a483d412ae854ff\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\badeb2fcb3ecda397da867a04e47233a\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.qq.e.union:union:4.294.1164] F:\GradleCache\caches\transforms-2\files-2.1\f9ce47d79a5f9563991ecf2734085919\jetified-union-4.294.1164\AndroidManifest.xml:2:1-62:12
+MERGED from [androidx.loader:loader:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\50f4390dc9d76a7f7cfd848b7fdfe282\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\e9ddce16c5379daa4548a767a7180ab7\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\2279ccb2272355212a5f5e893fdcc24d\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\1140477eed26738d8fdabfdcb76fbb3b\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\7ad8b3f45ca4c919b864880e29ed715d\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\2913e15365cced0730ea4cc876199694\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\e3292be99570f8f40ccf303eafbbd7ec\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\f6dc3a1a1dcbe353ed998154ee2c7c58\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\c43cfc00f3e4b4864e7ad637c3075b70\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\68c3428ba3d7b5bf9d48c54e34eed987\core-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\415b796bb040600ffef2fbb1a327e095\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\078e4ee1c09021f9628b48317b110de4\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\7f9361c70d957f6e671e88f6ff873b1a\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\f684b126ed04689bb927138350063234\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] F:\GradleCache\caches\transforms-2\files-2.1\2a344943eca2ce1e1922af35298d4796\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] F:\GradleCache\caches\transforms-2\files-2.1\2becec81d64863bf371d888331916828\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\421d257645bb81bf16b7537ae7fcb1a5\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\3d363305472872ee6e2520f7ee4fcc83\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] F:\GradleCache\caches\transforms-2\files-2.1\63ce7d60b541a0a5de5e1d40920719b5\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] F:\GradleCache\caches\transforms-2\files-2.1\d7bec891f79d8e2ea444ea004cc75dbc\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] F:\GradleCache\caches\transforms-2\files-2.1\58996f2d0418f3ec2111575ad4eec692\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:2:1-96:12
+INJECTED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:2:1-96:12
+INJECTED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:2:1-96:12
 	package
 		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:4:5-29
 		INJECTED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml
@@ -69,131 +105,154 @@ ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:19:5-21:
 	android:required
 		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:21:9-32
 application
-ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:30:5-68:19
-MERGED from [godot-lib.debug.aar] D:\.gradle\caches\transforms-2\files-2.1\e08a8fd1e624c35ad31b54d3d747a250\godot-lib.debug\AndroidManifest.xml:18:5-20:19
-MERGED from [godot-lib.debug.aar] D:\.gradle\caches\transforms-2\files-2.1\e08a8fd1e624c35ad31b54d3d747a250\godot-lib.debug\AndroidManifest.xml:18:5-20:19
-MERGED from [androidx.core:core:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\947833f03979c6d84fcd9a8feba7ce42\core-1.0.0\AndroidManifest.xml:22:5-89
-MERGED from [androidx.core:core:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\947833f03979c6d84fcd9a8feba7ce42\core-1.0.0\AndroidManifest.xml:22:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\619de63d53cf935c91c581371b6a6faa\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\619de63d53cf935c91c581371b6a6faa\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:31:5-94:19
+MERGED from [godot-lib.debug.aar] F:\GradleCache\caches\transforms-2\files-2.1\39fb1927bdaf3b04bb3ddf369398dd39\godot-lib.debug\AndroidManifest.xml:18:5-20:19
+MERGED from [godot-lib.debug.aar] F:\GradleCache\caches\transforms-2\files-2.1\39fb1927bdaf3b04bb3ddf369398dd39\godot-lib.debug\AndroidManifest.xml:18:5-20:19
+MERGED from [strfromtest-debug.aar] F:\GradleCache\caches\transforms-2\files-2.1\79001b099309b396b25ea8e9e0b6eb9d\jetified-strfromtest-debug\AndroidManifest.xml:16:5-25:19
+MERGED from [strfromtest-debug.aar] F:\GradleCache\caches\transforms-2\files-2.1\79001b099309b396b25ea8e9e0b6eb9d\jetified-strfromtest-debug\AndroidManifest.xml:16:5-25:19
+MERGED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:32:5-165:19
+MERGED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:32:5-165:19
+MERGED from [com.qq.e.union:union:4.294.1164] F:\GradleCache\caches\transforms-2\files-2.1\f9ce47d79a5f9563991ecf2734085919\jetified-union-4.294.1164\AndroidManifest.xml:17:5-60:19
+MERGED from [com.qq.e.union:union:4.294.1164] F:\GradleCache\caches\transforms-2\files-2.1\f9ce47d79a5f9563991ecf2734085919\jetified-union-4.294.1164\AndroidManifest.xml:17:5-60:19
+MERGED from [androidx.core:core:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\68c3428ba3d7b5bf9d48c54e34eed987\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\68c3428ba3d7b5bf9d48c54e34eed987\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\f684b126ed04689bb927138350063234\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\f684b126ed04689bb927138350063234\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
 	android:requestLegacyExternalStorage
-		ADDED from [godot-lib.debug.aar] D:\.gradle\caches\transforms-2\files-2.1\e08a8fd1e624c35ad31b54d3d747a250\godot-lib.debug\AndroidManifest.xml:18:18-61
+		ADDED from [godot-lib.debug.aar] F:\GradleCache\caches\transforms-2\files-2.1\39fb1927bdaf3b04bb3ddf369398dd39\godot-lib.debug\AndroidManifest.xml:18:18-61
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\947833f03979c6d84fcd9a8feba7ce42\core-1.0.0\AndroidManifest.xml:22:18-86
+		ADDED from [androidx.core:core:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\68c3428ba3d7b5bf9d48c54e34eed987\core-1.0.0\AndroidManifest.xml:22:18-86
 	android:label
-		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:30:18-67
+		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:31:48-97
+		REJECTED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:33:9-41
 	tools:ignore
-		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:30:96-135
+		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:31:128-167
 	android:icon
-		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:30:136-163
+		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:31:169-196
 	android:allowBackup
-		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:30:68-95
+		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:31:99-126
+	tools:replace
+		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:31:18-47
+	android:usesCleartextTraffic
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:34:9-44
+	android:name
+		ADDED from [strfromtest-debug.aar] F:\GradleCache\caches\transforms-2\files-2.1\79001b099309b396b25ea8e9e0b6eb9d\jetified-strfromtest-debug\AndroidManifest.xml:16:18-60
 meta-data#xr_mode_metadata_name
-ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:36:9-38:54
+ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:60:9-62:54
 	android:value
-		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:38:13-51
+		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:62:13-51
 	android:name
-		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:37:13-49
+		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:61:13-49
 meta-data#plugins
-ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:41:9-43:44
+ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:65:9-67:44
 	android:value
-		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:43:13-42
+		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:67:13-42
 	android:name
-		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:42:13-35
+		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:66:13-35
 activity#com.godot.game.GodotApp
-ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:45:9-62:20
+ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:69:9-88:20
 	android:screenOrientation
-		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:50:13-50
+		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:74:13-50
 	android:label
-		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:47:13-62
+		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:71:13-62
 	android:launchMode
-		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:49:13-44
+		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:73:13-44
 	android:resizeableActivity
-		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:52:13-47
+		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:76:13-47
 	tools:ignore
-		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:53:13-43
+		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:77:13-43
 	android:configChanges
-		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:51:13-141
+		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:75:13-141
 	android:theme
-		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:48:13-77
+		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:72:13-77
 	android:name
-		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:46:13-37
+		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:70:13-37
 meta-data#com.oculus.vr.focusaware
-ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:56:13-107
+ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:80:13-88
 	android:value
-		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:56:64-104
+		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:80:64-85
 	android:name
-		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:56:24-63
+		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:80:24-63
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:58:13-61:29
+ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:82:13-85:29
 action#android.intent.action.MAIN
-ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:59:17-69
+ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:83:17-69
 	android:name
-		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:59:25-66
+		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:83:25-66
 category#android.intent.category.LAUNCHER
-ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:60:17-77
+ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:84:17-77
 	android:name
-		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:60:27-74
+		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:84:27-74
 uses-sdk
 INJECTED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml
 INJECTED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml
-MERGED from [godot-lib.debug.aar] D:\.gradle\caches\transforms-2\files-2.1\e08a8fd1e624c35ad31b54d3d747a250\godot-lib.debug\AndroidManifest.xml:7:5-9:41
-MERGED from [godot-lib.debug.aar] D:\.gradle\caches\transforms-2\files-2.1\e08a8fd1e624c35ad31b54d3d747a250\godot-lib.debug\AndroidManifest.xml:7:5-9:41
-MERGED from [strfromtest-debug.aar] D:\.gradle\caches\transforms-2\files-2.1\cb76069b0565d8dabfff2fc64b124ced\jetified-strfromtest-debug\AndroidManifest.xml:7:5-9:41
-MERGED from [strfromtest-debug.aar] D:\.gradle\caches\transforms-2\files-2.1\cb76069b0565d8dabfff2fc64b124ced\jetified-strfromtest-debug\AndroidManifest.xml:7:5-9:41
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\72b4d95a0e8b43ee4215c0c4e8b0fb72\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\72b4d95a0e8b43ee4215c0c4e8b0fb72\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\5debf09d2541e0ccacc6adc6a4fdd105\fragment-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\5debf09d2541e0ccacc6adc6a4fdd105\fragment-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\3a2f8d614676183a411d5d0a5ccffd59\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\3a2f8d614676183a411d5d0a5ccffd59\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\0cb8e9b70eb18e6366ea818d50894e47\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\0cb8e9b70eb18e6366ea818d50894e47\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\3ae307e411008a5abe35b795699599f8\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\3ae307e411008a5abe35b795699599f8\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.media:media:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\1d849761628829d2295b320ffc5152e0\media-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.media:media:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\1d849761628829d2295b320ffc5152e0\media-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\fa1cda0d762347a9cb7d79eaeeb289e8\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\fa1cda0d762347a9cb7d79eaeeb289e8\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\366555e0658123cedccaf0883b3651bc\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\366555e0658123cedccaf0883b3651bc\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\dab48ee8d761a62192a7c0c78bc8a1aa\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\dab48ee8d761a62192a7c0c78bc8a1aa\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\850bf142cefab6ec1f243621257bf44e\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\850bf142cefab6ec1f243621257bf44e\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\f6f80dc4871d749a0cd888fb14aba5f3\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\f6f80dc4871d749a0cd888fb14aba5f3\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\7d767b2deaf02a4aa041ae0685eb6b5e\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\7d767b2deaf02a4aa041ae0685eb6b5e\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\263114587795ce3a15b18060381f86be\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\263114587795ce3a15b18060381f86be\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\947833f03979c6d84fcd9a8feba7ce42\core-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\947833f03979c6d84fcd9a8feba7ce42\core-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\bc6997ad05a1af84d78303dcea3eae39\documentfile-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\bc6997ad05a1af84d78303dcea3eae39\documentfile-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\58990e31d8d4b533b7ff983aa60b00fc\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\58990e31d8d4b533b7ff983aa60b00fc\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\53bf8556c8b730ae1255779c2895d59b\print-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\53bf8556c8b730ae1255779c2895d59b\print-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\619de63d53cf935c91c581371b6a6faa\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\619de63d53cf935c91c581371b6a6faa\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] D:\.gradle\caches\transforms-2\files-2.1\041f24b39a6e5bfd79a1db377c03d8b1\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] D:\.gradle\caches\transforms-2\files-2.1\041f24b39a6e5bfd79a1db377c03d8b1\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] D:\.gradle\caches\transforms-2\files-2.1\bbd5c89acb3086548b6dfeb7a06e205e\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] D:\.gradle\caches\transforms-2\files-2.1\bbd5c89acb3086548b6dfeb7a06e205e\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\1f0eea5572e817d886a572edc39d8e7d\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\1f0eea5572e817d886a572edc39d8e7d\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\157e39bb99c978d081f37e13d2ab360e\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\.gradle\caches\transforms-2\files-2.1\157e39bb99c978d081f37e13d2ab360e\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\.gradle\caches\transforms-2\files-2.1\7f304c13f8d08f7c389d2cae44e8a25c\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\.gradle\caches\transforms-2\files-2.1\7f304c13f8d08f7c389d2cae44e8a25c\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] D:\.gradle\caches\transforms-2\files-2.1\9180283ae214e030164cb294841a7487\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] D:\.gradle\caches\transforms-2\files-2.1\9180283ae214e030164cb294841a7487\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] D:\.gradle\caches\transforms-2\files-2.1\0530fd952fd1ec33fcda9664c94741cf\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] D:\.gradle\caches\transforms-2\files-2.1\0530fd952fd1ec33fcda9664c94741cf\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [godot-lib.debug.aar] F:\GradleCache\caches\transforms-2\files-2.1\39fb1927bdaf3b04bb3ddf369398dd39\godot-lib.debug\AndroidManifest.xml:7:5-9:41
+MERGED from [godot-lib.debug.aar] F:\GradleCache\caches\transforms-2\files-2.1\39fb1927bdaf3b04bb3ddf369398dd39\godot-lib.debug\AndroidManifest.xml:7:5-9:41
+MERGED from [strfromtest-debug.aar] F:\GradleCache\caches\transforms-2\files-2.1\79001b099309b396b25ea8e9e0b6eb9d\jetified-strfromtest-debug\AndroidManifest.xml:8:5-10:41
+MERGED from [strfromtest-debug.aar] F:\GradleCache\caches\transforms-2\files-2.1\79001b099309b396b25ea8e9e0b6eb9d\jetified-strfromtest-debug\AndroidManifest.xml:8:5-10:41
+MERGED from [le_base_2_1_3.aar] F:\GradleCache\caches\transforms-2\files-2.1\27e836ee6966521a5bdf22fb35b40b77\le_base_2_1_3\AndroidManifest.xml:7:5-9:41
+MERGED from [le_base_2_1_3.aar] F:\GradleCache\caches\transforms-2\files-2.1\27e836ee6966521a5bdf22fb35b40b77\le_base_2_1_3\AndroidManifest.xml:7:5-9:41
+MERGED from [le_ad_2_1_3.aar] F:\GradleCache\caches\transforms-2\files-2.1\e3820b33f1a604a61e4238cc54193734\le_ad_2_1_3\AndroidManifest.xml:8:5-10:41
+MERGED from [le_ad_2_1_3.aar] F:\GradleCache\caches\transforms-2\files-2.1\e3820b33f1a604a61e4238cc54193734\le_ad_2_1_3\AndroidManifest.xml:8:5-10:41
+MERGED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:8:5-11:611
+MERGED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:8:5-11:611
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\d266de85e737279070036dca8e6ea242\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\d266de85e737279070036dca8e6ea242\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\dd6dc9b3ae8d7dfa01f14f3678041640\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\dd6dc9b3ae8d7dfa01f14f3678041640\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\62a7a1f8fc5618098a483d412ae854ff\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\62a7a1f8fc5618098a483d412ae854ff\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\badeb2fcb3ecda397da867a04e47233a\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\badeb2fcb3ecda397da867a04e47233a\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.qq.e.union:union:4.294.1164] F:\GradleCache\caches\transforms-2\files-2.1\f9ce47d79a5f9563991ecf2734085919\jetified-union-4.294.1164\AndroidManifest.xml:7:5-9:41
+MERGED from [com.qq.e.union:union:4.294.1164] F:\GradleCache\caches\transforms-2\files-2.1\f9ce47d79a5f9563991ecf2734085919\jetified-union-4.294.1164\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.loader:loader:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\50f4390dc9d76a7f7cfd848b7fdfe282\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\50f4390dc9d76a7f7cfd848b7fdfe282\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\e9ddce16c5379daa4548a767a7180ab7\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\e9ddce16c5379daa4548a767a7180ab7\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\2279ccb2272355212a5f5e893fdcc24d\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\2279ccb2272355212a5f5e893fdcc24d\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\1140477eed26738d8fdabfdcb76fbb3b\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\1140477eed26738d8fdabfdcb76fbb3b\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\7ad8b3f45ca4c919b864880e29ed715d\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\7ad8b3f45ca4c919b864880e29ed715d\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\2913e15365cced0730ea4cc876199694\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\2913e15365cced0730ea4cc876199694\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\e3292be99570f8f40ccf303eafbbd7ec\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\e3292be99570f8f40ccf303eafbbd7ec\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\f6dc3a1a1dcbe353ed998154ee2c7c58\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\f6dc3a1a1dcbe353ed998154ee2c7c58\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\c43cfc00f3e4b4864e7ad637c3075b70\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\c43cfc00f3e4b4864e7ad637c3075b70\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\68c3428ba3d7b5bf9d48c54e34eed987\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\68c3428ba3d7b5bf9d48c54e34eed987\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\415b796bb040600ffef2fbb1a327e095\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\415b796bb040600ffef2fbb1a327e095\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\078e4ee1c09021f9628b48317b110de4\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\078e4ee1c09021f9628b48317b110de4\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\7f9361c70d957f6e671e88f6ff873b1a\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\7f9361c70d957f6e671e88f6ff873b1a\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\f684b126ed04689bb927138350063234\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\f684b126ed04689bb927138350063234\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] F:\GradleCache\caches\transforms-2\files-2.1\2a344943eca2ce1e1922af35298d4796\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] F:\GradleCache\caches\transforms-2\files-2.1\2a344943eca2ce1e1922af35298d4796\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] F:\GradleCache\caches\transforms-2\files-2.1\2becec81d64863bf371d888331916828\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] F:\GradleCache\caches\transforms-2\files-2.1\2becec81d64863bf371d888331916828\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\421d257645bb81bf16b7537ae7fcb1a5\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\421d257645bb81bf16b7537ae7fcb1a5\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\3d363305472872ee6e2520f7ee4fcc83\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] F:\GradleCache\caches\transforms-2\files-2.1\3d363305472872ee6e2520f7ee4fcc83\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] F:\GradleCache\caches\transforms-2\files-2.1\63ce7d60b541a0a5de5e1d40920719b5\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] F:\GradleCache\caches\transforms-2\files-2.1\63ce7d60b541a0a5de5e1d40920719b5\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] F:\GradleCache\caches\transforms-2\files-2.1\d7bec891f79d8e2ea444ea004cc75dbc\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] F:\GradleCache\caches\transforms-2\files-2.1\d7bec891f79d8e2ea444ea004cc75dbc\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] F:\GradleCache\caches\transforms-2\files-2.1\58996f2d0418f3ec2111575ad4eec692\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] F:\GradleCache\caches\transforms-2\files-2.1\58996f2d0418f3ec2111575ad4eec692\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
 INJECTED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml
 INJECTED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:11:9-608
 	android:targetSdkVersion
 		INJECTED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml
 		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml
@@ -202,23 +261,421 @@ INJECTED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml
 		INJECTED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml
 		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml
 		INJECTED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:37:13-39:57
+	android:resource
+		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:39:17-54
+	android:name
+		ADDED from F:\work\GodotAndroidPlugin\android\build\AndroidManifest.xml:38:17-67
 instrumentation
-ADDED from [godot-lib.debug.aar] D:\.gradle\caches\transforms-2\files-2.1\e08a8fd1e624c35ad31b54d3d747a250\godot-lib.debug\AndroidManifest.xml:11:5-15:57
+ADDED from [godot-lib.debug.aar] F:\GradleCache\caches\transforms-2\files-2.1\39fb1927bdaf3b04bb3ddf369398dd39\godot-lib.debug\AndroidManifest.xml:11:5-15:57
 	android:label
-		ADDED from [godot-lib.debug.aar] D:\.gradle\caches\transforms-2\files-2.1\e08a8fd1e624c35ad31b54d3d747a250\godot-lib.debug\AndroidManifest.xml:14:9-58
+		ADDED from [godot-lib.debug.aar] F:\GradleCache\caches\transforms-2\files-2.1\39fb1927bdaf3b04bb3ddf369398dd39\godot-lib.debug\AndroidManifest.xml:14:9-58
 	android:icon
-		ADDED from [godot-lib.debug.aar] D:\.gradle\caches\transforms-2\files-2.1\e08a8fd1e624c35ad31b54d3d747a250\godot-lib.debug\AndroidManifest.xml:13:9-36
+		ADDED from [godot-lib.debug.aar] F:\GradleCache\caches\transforms-2\files-2.1\39fb1927bdaf3b04bb3ddf369398dd39\godot-lib.debug\AndroidManifest.xml:13:9-36
 	android:targetPackage
-		ADDED from [godot-lib.debug.aar] D:\.gradle\caches\transforms-2\files-2.1\e08a8fd1e624c35ad31b54d3d747a250\godot-lib.debug\AndroidManifest.xml:15:9-54
+		ADDED from [godot-lib.debug.aar] F:\GradleCache\caches\transforms-2\files-2.1\39fb1927bdaf3b04bb3ddf369398dd39\godot-lib.debug\AndroidManifest.xml:15:9-54
 	android:name
-		ADDED from [godot-lib.debug.aar] D:\.gradle\caches\transforms-2\files-2.1\e08a8fd1e624c35ad31b54d3d747a250\godot-lib.debug\AndroidManifest.xml:12:9-45
+		ADDED from [godot-lib.debug.aar] F:\GradleCache\caches\transforms-2\files-2.1\39fb1927bdaf3b04bb3ddf369398dd39\godot-lib.debug\AndroidManifest.xml:12:9-45
 service#org.godotengine.godot.GodotDownloaderService
-ADDED from [godot-lib.debug.aar] D:\.gradle\caches\transforms-2\files-2.1\e08a8fd1e624c35ad31b54d3d747a250\godot-lib.debug\AndroidManifest.xml:19:9-80
+ADDED from [godot-lib.debug.aar] F:\GradleCache\caches\transforms-2\files-2.1\39fb1927bdaf3b04bb3ddf369398dd39\godot-lib.debug\AndroidManifest.xml:19:9-80
 	android:name
-		ADDED from [godot-lib.debug.aar] D:\.gradle\caches\transforms-2\files-2.1\e08a8fd1e624c35ad31b54d3d747a250\godot-lib.debug\AndroidManifest.xml:19:18-77
+		ADDED from [godot-lib.debug.aar] F:\GradleCache\caches\transforms-2\files-2.1\39fb1927bdaf3b04bb3ddf369398dd39\godot-lib.debug\AndroidManifest.xml:19:18-77
+uses-permission#android.permission.INTERNET
+ADDED from [strfromtest-debug.aar] F:\GradleCache\caches\transforms-2\files-2.1\79001b099309b396b25ea8e9e0b6eb9d\jetified-strfromtest-debug\AndroidManifest.xml:12:5-67
+MERGED from [le_ad_2_1_3.aar] F:\GradleCache\caches\transforms-2\files-2.1\e3820b33f1a604a61e4238cc54193734\le_ad_2_1_3\AndroidManifest.xml:12:5-67
+MERGED from [le_ad_2_1_3.aar] F:\GradleCache\caches\transforms-2\files-2.1\e3820b33f1a604a61e4238cc54193734\le_ad_2_1_3\AndroidManifest.xml:12:5-67
+MERGED from [miit_mdid_1.0.10.aar] F:\GradleCache\caches\transforms-2\files-2.1\79cce5300dc3824df37c1e2ade9e2675\jetified-miit_mdid_1.0.10\AndroidManifest.xml:6:5-67
+MERGED from [miit_mdid_1.0.10.aar] F:\GradleCache\caches\transforms-2\files-2.1\79cce5300dc3824df37c1e2ade9e2675\jetified-miit_mdid_1.0.10\AndroidManifest.xml:6:5-67
+MERGED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:14:5-67
+MERGED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:14:5-67
+MERGED from [com.qq.e.union:union:4.294.1164] F:\GradleCache\caches\transforms-2\files-2.1\f9ce47d79a5f9563991ecf2734085919\jetified-union-4.294.1164\AndroidManifest.xml:11:5-67
+MERGED from [com.qq.e.union:union:4.294.1164] F:\GradleCache\caches\transforms-2\files-2.1\f9ce47d79a5f9563991ecf2734085919\jetified-union-4.294.1164\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from [strfromtest-debug.aar] F:\GradleCache\caches\transforms-2\files-2.1\79001b099309b396b25ea8e9e0b6eb9d\jetified-strfromtest-debug\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.GET_TASKS
+ADDED from [strfromtest-debug.aar] F:\GradleCache\caches\transforms-2\files-2.1\79001b099309b396b25ea8e9e0b6eb9d\jetified-strfromtest-debug\AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from [strfromtest-debug.aar] F:\GradleCache\caches\transforms-2\files-2.1\79001b099309b396b25ea8e9e0b6eb9d\jetified-strfromtest-debug\AndroidManifest.xml:13:22-65
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [strfromtest-debug.aar] F:\GradleCache\caches\transforms-2\files-2.1\79001b099309b396b25ea8e9e0b6eb9d\jetified-strfromtest-debug\AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from [strfromtest-debug.aar] F:\GradleCache\caches\transforms-2\files-2.1\79001b099309b396b25ea8e9e0b6eb9d\jetified-strfromtest-debug\AndroidManifest.xml:14:22-65
+activity#com.hh128.pocked_plugin_banner
+ADDED from [strfromtest-debug.aar] F:\GradleCache\caches\transforms-2\files-2.1\79001b099309b396b25ea8e9e0b6eb9d\jetified-strfromtest-debug\AndroidManifest.xml:17:9-20:68
+	android:label
+		ADDED from [strfromtest-debug.aar] F:\GradleCache\caches\transforms-2\files-2.1\79001b099309b396b25ea8e9e0b6eb9d\jetified-strfromtest-debug\AndroidManifest.xml:19:13-72
+	android:theme
+		ADDED from [strfromtest-debug.aar] F:\GradleCache\caches\transforms-2\files-2.1\79001b099309b396b25ea8e9e0b6eb9d\jetified-strfromtest-debug\AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from [strfromtest-debug.aar] F:\GradleCache\caches\transforms-2\files-2.1\79001b099309b396b25ea8e9e0b6eb9d\jetified-strfromtest-debug\AndroidManifest.xml:18:13-58
 meta-data#org.godotengine.plugin.v1.StrFromTest
-ADDED from [strfromtest-debug.aar] D:\.gradle\caches\transforms-2\files-2.1\cb76069b0565d8dabfff2fc64b124ced\jetified-strfromtest-debug\AndroidManifest.xml:11:5-13:49
+ADDED from [strfromtest-debug.aar] F:\GradleCache\caches\transforms-2\files-2.1\79001b099309b396b25ea8e9e0b6eb9d\jetified-strfromtest-debug\AndroidManifest.xml:22:9-24:53
 	android:value
-		ADDED from [strfromtest-debug.aar] D:\.gradle\caches\transforms-2\files-2.1\cb76069b0565d8dabfff2fc64b124ced\jetified-strfromtest-debug\AndroidManifest.xml:13:9-46
+		ADDED from [strfromtest-debug.aar] F:\GradleCache\caches\transforms-2\files-2.1\79001b099309b396b25ea8e9e0b6eb9d\jetified-strfromtest-debug\AndroidManifest.xml:24:13-50
 	android:name
-		ADDED from [strfromtest-debug.aar] D:\.gradle\caches\transforms-2\files-2.1\cb76069b0565d8dabfff2fc64b124ced\jetified-strfromtest-debug\AndroidManifest.xml:12:9-61
+		ADDED from [strfromtest-debug.aar] F:\GradleCache\caches\transforms-2\files-2.1\79001b099309b396b25ea8e9e0b6eb9d\jetified-strfromtest-debug\AndroidManifest.xml:23:13-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [le_base_2_1_3.aar] F:\GradleCache\caches\transforms-2\files-2.1\27e836ee6966521a5bdf22fb35b40b77\le_base_2_1_3\AndroidManifest.xml:11:5-79
+MERGED from [le_ad_2_1_3.aar] F:\GradleCache\caches\transforms-2\files-2.1\e3820b33f1a604a61e4238cc54193734\le_ad_2_1_3\AndroidManifest.xml:13:5-79
+MERGED from [le_ad_2_1_3.aar] F:\GradleCache\caches\transforms-2\files-2.1\e3820b33f1a604a61e4238cc54193734\le_ad_2_1_3\AndroidManifest.xml:13:5-79
+MERGED from [miit_mdid_1.0.10.aar] F:\GradleCache\caches\transforms-2\files-2.1\79cce5300dc3824df37c1e2ade9e2675\jetified-miit_mdid_1.0.10\AndroidManifest.xml:4:5-79
+MERGED from [miit_mdid_1.0.10.aar] F:\GradleCache\caches\transforms-2\files-2.1\79cce5300dc3824df37c1e2ade9e2675\jetified-miit_mdid_1.0.10\AndroidManifest.xml:4:5-79
+MERGED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:13:5-79
+MERGED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:13:5-79
+MERGED from [com.qq.e.union:union:4.294.1164] F:\GradleCache\caches\transforms-2\files-2.1\f9ce47d79a5f9563991ecf2734085919\jetified-union-4.294.1164\AndroidManifest.xml:12:5-79
+MERGED from [com.qq.e.union:union:4.294.1164] F:\GradleCache\caches\transforms-2\files-2.1\f9ce47d79a5f9563991ecf2734085919\jetified-union-4.294.1164\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from [le_base_2_1_3.aar] F:\GradleCache\caches\transforms-2\files-2.1\27e836ee6966521a5bdf22fb35b40b77\le_base_2_1_3\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from [le_base_2_1_3.aar] F:\GradleCache\caches\transforms-2\files-2.1\27e836ee6966521a5bdf22fb35b40b77\le_base_2_1_3\AndroidManifest.xml:12:5-75
+MERGED from [miit_mdid_1.0.10.aar] F:\GradleCache\caches\transforms-2\files-2.1\79cce5300dc3824df37c1e2ade9e2675\jetified-miit_mdid_1.0.10\AndroidManifest.xml:5:5-75
+MERGED from [miit_mdid_1.0.10.aar] F:\GradleCache\caches\transforms-2\files-2.1\79cce5300dc3824df37c1e2ade9e2675\jetified-miit_mdid_1.0.10\AndroidManifest.xml:5:5-75
+MERGED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:15:5-75
+MERGED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:15:5-75
+	android:name
+		ADDED from [le_base_2_1_3.aar] F:\GradleCache\caches\transforms-2\files-2.1\27e836ee6966521a5bdf22fb35b40b77\le_base_2_1_3\AndroidManifest.xml:12:22-72
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [le_ad_2_1_3.aar] F:\GradleCache\caches\transforms-2\files-2.1\e3820b33f1a604a61e4238cc54193734\le_ad_2_1_3\AndroidManifest.xml:14:5-76
+MERGED from [com.qq.e.union:union:4.294.1164] F:\GradleCache\caches\transforms-2\files-2.1\f9ce47d79a5f9563991ecf2734085919\jetified-union-4.294.1164\AndroidManifest.xml:13:5-76
+MERGED from [com.qq.e.union:union:4.294.1164] F:\GradleCache\caches\transforms-2\files-2.1\f9ce47d79a5f9563991ecf2734085919\jetified-union-4.294.1164\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from [le_ad_2_1_3.aar] F:\GradleCache\caches\transforms-2\files-2.1\e3820b33f1a604a61e4238cc54193734\le_ad_2_1_3\AndroidManifest.xml:14:22-73
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from [le_ad_2_1_3.aar] F:\GradleCache\caches\transforms-2\files-2.1\e3820b33f1a604a61e4238cc54193734\le_ad_2_1_3\AndroidManifest.xml:15:5-83
+MERGED from [com.qq.e.union:union:4.294.1164] F:\GradleCache\caches\transforms-2\files-2.1\f9ce47d79a5f9563991ecf2734085919\jetified-union-4.294.1164\AndroidManifest.xml:14:5-83
+MERGED from [com.qq.e.union:union:4.294.1164] F:\GradleCache\caches\transforms-2\files-2.1\f9ce47d79a5f9563991ecf2734085919\jetified-union-4.294.1164\AndroidManifest.xml:14:5-83
+	android:name
+		ADDED from [le_ad_2_1_3.aar] F:\GradleCache\caches\transforms-2\files-2.1\e3820b33f1a604a61e4238cc54193734\le_ad_2_1_3\AndroidManifest.xml:15:22-80
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [le_ad_2_1_3.aar] F:\GradleCache\caches\transforms-2\files-2.1\e3820b33f1a604a61e4238cc54193734\le_ad_2_1_3\AndroidManifest.xml:16:5-81
+MERGED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:16:5-81
+MERGED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from [le_ad_2_1_3.aar] F:\GradleCache\caches\transforms-2\files-2.1\e3820b33f1a604a61e4238cc54193734\le_ad_2_1_3\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [le_ad_2_1_3.aar] F:\GradleCache\caches\transforms-2\files-2.1\e3820b33f1a604a61e4238cc54193734\le_ad_2_1_3\AndroidManifest.xml:17:5-80
+MERGED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:17:5-80
+MERGED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:17:5-80
+	android:name
+		ADDED from [le_ad_2_1_3.aar] F:\GradleCache\caches\transforms-2\files-2.1\e3820b33f1a604a61e4238cc54193734\le_ad_2_1_3\AndroidManifest.xml:17:22-77
+uses-permission#com.asus.msa.SupplementaryDID.ACCESS
+ADDED from [miit_mdid_1.0.10.aar] F:\GradleCache\caches\transforms-2\files-2.1\79cce5300dc3824df37c1e2ade9e2675\jetified-miit_mdid_1.0.10\AndroidManifest.xml:8:5-76
+MERGED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:30:5-76
+MERGED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:30:5-76
+	android:name
+		ADDED from [miit_mdid_1.0.10.aar] F:\GradleCache\caches\transforms-2\files-2.1\79cce5300dc3824df37c1e2ade9e2675\jetified-miit_mdid_1.0.10\AndroidManifest.xml:8:22-73
+uses-permission#android.permission.REORDER_TASKS
+ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:18:5-72
+	android:name
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:18:22-69
+queries
+ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:20:5-28:15
+intent
+ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:21:9-27:18
+action#android.intent.action.VIEW
+ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:22:13-65
+	android:name
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:22:21-62
+category#android.intent.category.BROWSABLE
+ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:24:13-74
+	android:name
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:24:23-71
+data
+ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:26:13-44
+	android:scheme
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:26:19-41
+service#com.bytedance.tea.crash.upload.CrashUploadService
+ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:35:9-37:39
+	android:process
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:37:13-36
+	android:name
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:36:13-77
+service#com.ss.android.socialbase.downloader.notification.DownloadNotificationService
+ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:38:9-113
+	android:name
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:38:18-110
+service#com.ss.android.socialbase.downloader.downloader.DownloadService
+ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:39:9-99
+	android:name
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:39:18-96
+service#com.ss.android.socialbase.downloader.downloader.IndependentProcessDownloadService
+ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:40:9-47:19
+	android:process
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:43:13-42
+	android:exported
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:41:13-109
+intent-filter#action:name:com.ss.android.socialbase.downloader.remote
+ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:44:13-46:29
+action#com.ss.android.socialbase.downloader.remote
+ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:45:17-86
+	android:name
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:45:25-83
+service#com.ss.android.socialbase.downloader.impls.DownloadHandleService
+ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:48:9-100
+	android:name
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:48:18-97
+service#com.ss.android.socialbase.downloader.downloader.SqlDownloadCacheService
+ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:54:9-107
+	android:name
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:54:18-104
+activity#com.ss.android.downloadlib.addownload.compliance.AppPrivacyPolicyActivity
+ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:56:9-110
+	android:name
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:56:19-107
+activity#com.ss.android.downloadlib.addownload.compliance.AppDetailInfoActivity
+ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:57:9-107
+	android:name
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:57:19-104
+activity#com.ss.android.downloadlib.activity.TTDelegateActivity
+ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:58:9-61:75
+	android:launchMode
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:60:13-44
+	android:theme
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:61:13-72
+	android:name
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:59:13-82
+activity#com.ss.android.downloadlib.activity.JumpKllkActivity
+ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:62:9-65:75
+	android:launchMode
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:64:13-44
+	android:theme
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:65:13-72
+	android:name
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:63:13-80
+receiver#com.ss.android.downloadlib.core.download.DownloadReceiver
+ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:67:9-94
+	android:name
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:67:19-91
+activity#com.bytedance.sdk.openadsdk.activity.base.TTWebPageActivity
+ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:68:9-73:57
+	android:launchMode
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:71:13-42
+	android:windowSoftInputMode
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:73:13-54
+	android:configChanges
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:70:13-74
+	android:theme
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:72:13-50
+	android:name
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:69:13-87
+activity#com.bytedance.sdk.openadsdk.activity.base.TTMiddlePageActivity
+ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:74:9-80:57
+	android:screenOrientation
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:78:13-49
+	android:launchMode
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:77:13-42
+	android:windowSoftInputMode
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:80:13-54
+	android:configChanges
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:76:13-74
+	android:theme
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:79:13-50
+	android:name
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:75:13-90
+activity#com.bytedance.sdk.openadsdk.activity.base.TTPlayableWebPageActivity
+ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:81:9-86:57
+	android:launchMode
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:84:13-42
+	android:windowSoftInputMode
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:86:13-54
+	android:configChanges
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:83:13-74
+	android:theme
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:85:13-50
+	android:name
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:82:13-95
+activity#com.bytedance.sdk.openadsdk.activity.base.TTVideoWebPageActivity
+ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:87:9-92:57
+	android:launchMode
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:90:13-42
+	android:windowSoftInputMode
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:92:13-54
+	android:configChanges
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:89:13-74
+	android:theme
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:91:13-50
+	android:name
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:88:13-92
+activity#com.bytedance.sdk.openadsdk.activity.base.TTVideoScrollWebPageActivity
+ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:93:9-98:57
+	android:launchMode
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:96:13-42
+	android:windowSoftInputMode
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:98:13-54
+	android:configChanges
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:95:13-74
+	android:theme
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:97:13-50
+	android:name
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:94:13-98
+activity#com.bytedance.sdk.openadsdk.dislike.TTDislikeWebViewActivity
+ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:99:9-103:57
+	android:launchMode
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:102:13-42
+	android:windowSoftInputMode
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:103:13-54
+	android:configChanges
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:101:13-74
+	android:name
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:100:13-88
+activity#com.bytedance.sdk.openadsdk.activity.base.TTDelegateActivity
+ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:104:9-107:75
+	android:launchMode
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:106:13-42
+	android:theme
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:107:13-72
+	android:name
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:105:13-88
+activity#com.bytedance.sdk.openadsdk.activity.base.TTRewardVideoActivity
+ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:108:9-112:53
+	android:launchMode
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:111:13-42
+	android:configChanges
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:110:13-74
+	android:theme
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:112:13-50
+	android:name
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:109:13-91
+activity#com.bytedance.sdk.openadsdk.activity.base.TTRewardExpressVideoActivity
+ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:113:9-117:53
+	android:launchMode
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:116:13-42
+	android:configChanges
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:115:13-74
+	android:theme
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:117:13-50
+	android:name
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:114:13-98
+activity#com.bytedance.sdk.openadsdk.activity.base.TTFullScreenVideoActivity
+ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:118:9-122:53
+	android:launchMode
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:121:13-42
+	android:configChanges
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:120:13-74
+	android:theme
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:122:13-50
+	android:name
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:119:13-95
+activity#com.bytedance.sdk.openadsdk.activity.base.TTFullScreenExpressVideoActivity
+ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:123:9-127:53
+	android:launchMode
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:126:13-42
+	android:configChanges
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:125:13-74
+	android:theme
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:127:13-50
+	android:name
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:124:13-102
+service#com.bytedance.sdk.openadsdk.multipro.aidl.BinderPoolService
+ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:129:9-95
+	android:name
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:129:18-92
+receiver#com.bytedance.embedapplog.collector.Collector
+ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:131:9-134:40
+	android:enabled
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:133:13-35
+	android:exported
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:134:13-37
+	android:name
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:132:13-73
+service#com.ss.android.socialbase.appdownloader.DownloadHandlerService
+ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:135:9-98
+	android:name
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:135:18-95
+activity#com.ss.android.socialbase.appdownloader.view.DownloadTaskDeleteActivity
+ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:151:9-154:59
+	android:launchMode
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:153:13-44
+	android:theme
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:154:13-56
+	android:name
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:152:13-99
+activity#com.ss.android.socialbase.appdownloader.view.JumpUnknownSourceActivity
+ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:155:9-158:59
+	android:launchMode
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:157:13-44
+	android:theme
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:158:13-56
+	android:name
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:156:13-98
+service#com.ss.android.socialbase.appdownloader.RetryJobSchedulerService
+ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:160:9-164:72
+	android:enabled
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:162:13-35
+	android:exported
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:163:13-37
+	android:permission
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:164:13-69
+	android:name
+		ADDED from [open_ad_sdk.aar] F:\GradleCache\caches\transforms-2\files-2.1\38452e06c3591ff1e4aa7c57b55a7de8\jetified-open_ad_sdk\AndroidManifest.xml:161:13-92
+uses-permission#android.permission.QUERY_ALL_PACKAGES
+ADDED from [com.qq.e.union:union:4.294.1164] F:\GradleCache\caches\transforms-2\files-2.1\f9ce47d79a5f9563991ecf2734085919\jetified-union-4.294.1164\AndroidManifest.xml:15:5-77
+	android:name
+		ADDED from [com.qq.e.union:union:4.294.1164] F:\GradleCache\caches\transforms-2\files-2.1\f9ce47d79a5f9563991ecf2734085919\jetified-union-4.294.1164\AndroidManifest.xml:15:22-74
+service#com.qq.e.comm.DownloadService
+ADDED from [com.qq.e.union:union:4.294.1164] F:\GradleCache\caches\transforms-2\files-2.1\f9ce47d79a5f9563991ecf2734085919\jetified-union-4.294.1164\AndroidManifest.xml:20:9-23:43
+	android:multiprocess
+		ADDED from [com.qq.e.union:union:4.294.1164] F:\GradleCache\caches\transforms-2\files-2.1\f9ce47d79a5f9563991ecf2734085919\jetified-union-4.294.1164\AndroidManifest.xml:23:13-40
+	android:exported
+		ADDED from [com.qq.e.union:union:4.294.1164] F:\GradleCache\caches\transforms-2\files-2.1\f9ce47d79a5f9563991ecf2734085919\jetified-union-4.294.1164\AndroidManifest.xml:22:13-37
+	android:name
+		ADDED from [com.qq.e.union:union:4.294.1164] F:\GradleCache\caches\transforms-2\files-2.1\f9ce47d79a5f9563991ecf2734085919\jetified-union-4.294.1164\AndroidManifest.xml:21:13-57
+activity#com.qq.e.ads.ADActivity
+ADDED from [com.qq.e.union:union:4.294.1164] F:\GradleCache\caches\transforms-2\files-2.1\f9ce47d79a5f9563991ecf2734085919\jetified-union-4.294.1164\AndroidManifest.xml:25:9-28:43
+	android:multiprocess
+		ADDED from [com.qq.e.union:union:4.294.1164] F:\GradleCache\caches\transforms-2\files-2.1\f9ce47d79a5f9563991ecf2734085919\jetified-union-4.294.1164\AndroidManifest.xml:28:13-40
+	android:configChanges
+		ADDED from [com.qq.e.union:union:4.294.1164] F:\GradleCache\caches\transforms-2\files-2.1\f9ce47d79a5f9563991ecf2734085919\jetified-union-4.294.1164\AndroidManifest.xml:27:13-83
+	android:name
+		ADDED from [com.qq.e.union:union:4.294.1164] F:\GradleCache\caches\transforms-2\files-2.1\f9ce47d79a5f9563991ecf2734085919\jetified-union-4.294.1164\AndroidManifest.xml:26:13-51
+activity#com.qq.e.ads.PortraitADActivity
+ADDED from [com.qq.e.union:union:4.294.1164] F:\GradleCache\caches\transforms-2\files-2.1\f9ce47d79a5f9563991ecf2734085919\jetified-union-4.294.1164\AndroidManifest.xml:29:9-33:52
+	android:screenOrientation
+		ADDED from [com.qq.e.union:union:4.294.1164] F:\GradleCache\caches\transforms-2\files-2.1\f9ce47d79a5f9563991ecf2734085919\jetified-union-4.294.1164\AndroidManifest.xml:33:13-49
+	android:multiprocess
+		ADDED from [com.qq.e.union:union:4.294.1164] F:\GradleCache\caches\transforms-2\files-2.1\f9ce47d79a5f9563991ecf2734085919\jetified-union-4.294.1164\AndroidManifest.xml:32:13-40
+	android:configChanges
+		ADDED from [com.qq.e.union:union:4.294.1164] F:\GradleCache\caches\transforms-2\files-2.1\f9ce47d79a5f9563991ecf2734085919\jetified-union-4.294.1164\AndroidManifest.xml:31:13-83
+	android:name
+		ADDED from [com.qq.e.union:union:4.294.1164] F:\GradleCache\caches\transforms-2\files-2.1\f9ce47d79a5f9563991ecf2734085919\jetified-union-4.294.1164\AndroidManifest.xml:30:13-59
+activity#com.qq.e.ads.LandscapeADActivity
+ADDED from [com.qq.e.union:union:4.294.1164] F:\GradleCache\caches\transforms-2\files-2.1\f9ce47d79a5f9563991ecf2734085919\jetified-union-4.294.1164\AndroidManifest.xml:34:9-38:59
+	android:screenOrientation
+		ADDED from [com.qq.e.union:union:4.294.1164] F:\GradleCache\caches\transforms-2\files-2.1\f9ce47d79a5f9563991ecf2734085919\jetified-union-4.294.1164\AndroidManifest.xml:38:13-56
+	android:multiprocess
+		ADDED from [com.qq.e.union:union:4.294.1164] F:\GradleCache\caches\transforms-2\files-2.1\f9ce47d79a5f9563991ecf2734085919\jetified-union-4.294.1164\AndroidManifest.xml:37:13-40
+	android:configChanges
+		ADDED from [com.qq.e.union:union:4.294.1164] F:\GradleCache\caches\transforms-2\files-2.1\f9ce47d79a5f9563991ecf2734085919\jetified-union-4.294.1164\AndroidManifest.xml:36:13-83
+	android:name
+		ADDED from [com.qq.e.union:union:4.294.1164] F:\GradleCache\caches\transforms-2\files-2.1\f9ce47d79a5f9563991ecf2734085919\jetified-union-4.294.1164\AndroidManifest.xml:35:13-60
+activity#com.qq.e.ads.RewardvideoPortraitADActivity
+ADDED from [com.qq.e.union:union:4.294.1164] F:\GradleCache\caches\transforms-2\files-2.1\f9ce47d79a5f9563991ecf2734085919\jetified-union-4.294.1164\AndroidManifest.xml:40:9-48:20
+	android:multiprocess
+		ADDED from [com.qq.e.union:union:4.294.1164] F:\GradleCache\caches\transforms-2\files-2.1\f9ce47d79a5f9563991ecf2734085919\jetified-union-4.294.1164\AndroidManifest.xml:43:13-40
+	android:configChanges
+		ADDED from [com.qq.e.union:union:4.294.1164] F:\GradleCache\caches\transforms-2\files-2.1\f9ce47d79a5f9563991ecf2734085919\jetified-union-4.294.1164\AndroidManifest.xml:42:13-83
+	android:theme
+		ADDED from [com.qq.e.union:union:4.294.1164] F:\GradleCache\caches\transforms-2\files-2.1\f9ce47d79a5f9563991ecf2734085919\jetified-union-4.294.1164\AndroidManifest.xml:44:13-66
+	android:name
+		ADDED from [com.qq.e.union:union:4.294.1164] F:\GradleCache\caches\transforms-2\files-2.1\f9ce47d79a5f9563991ecf2734085919\jetified-union-4.294.1164\AndroidManifest.xml:41:13-70
+meta-data#android.notch_support
+ADDED from [com.qq.e.union:union:4.294.1164] F:\GradleCache\caches\transforms-2\files-2.1\f9ce47d79a5f9563991ecf2734085919\jetified-union-4.294.1164\AndroidManifest.xml:45:13-47:40
+	android:value
+		ADDED from [com.qq.e.union:union:4.294.1164] F:\GradleCache\caches\transforms-2\files-2.1\f9ce47d79a5f9563991ecf2734085919\jetified-union-4.294.1164\AndroidManifest.xml:47:17-37
+	android:name
+		ADDED from [com.qq.e.union:union:4.294.1164] F:\GradleCache\caches\transforms-2\files-2.1\f9ce47d79a5f9563991ecf2734085919\jetified-union-4.294.1164\AndroidManifest.xml:46:17-53
+activity#com.qq.e.ads.RewardvideoLandscapeADActivity
+ADDED from [com.qq.e.union:union:4.294.1164] F:\GradleCache\caches\transforms-2\files-2.1\f9ce47d79a5f9563991ecf2734085919\jetified-union-4.294.1164\AndroidManifest.xml:50:9-59:20
+	android:screenOrientation
+		ADDED from [com.qq.e.union:union:4.294.1164] F:\GradleCache\caches\transforms-2\files-2.1\f9ce47d79a5f9563991ecf2734085919\jetified-union-4.294.1164\AndroidManifest.xml:54:13-50
+	android:multiprocess
+		ADDED from [com.qq.e.union:union:4.294.1164] F:\GradleCache\caches\transforms-2\files-2.1\f9ce47d79a5f9563991ecf2734085919\jetified-union-4.294.1164\AndroidManifest.xml:53:13-40
+	android:configChanges
+		ADDED from [com.qq.e.union:union:4.294.1164] F:\GradleCache\caches\transforms-2\files-2.1\f9ce47d79a5f9563991ecf2734085919\jetified-union-4.294.1164\AndroidManifest.xml:52:13-83
+	android:theme
+		ADDED from [com.qq.e.union:union:4.294.1164] F:\GradleCache\caches\transforms-2\files-2.1\f9ce47d79a5f9563991ecf2734085919\jetified-union-4.294.1164\AndroidManifest.xml:55:13-66
+	android:name
+		ADDED from [com.qq.e.union:union:4.294.1164] F:\GradleCache\caches\transforms-2\files-2.1\f9ce47d79a5f9563991ecf2734085919\jetified-union-4.294.1164\AndroidManifest.xml:51:13-71

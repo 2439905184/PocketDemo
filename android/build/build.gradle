@@ -16,6 +16,7 @@ buildscript {
     dependencies {
         classpath libraries.androidGradlePlugin
         classpath libraries.kotlinGradlePlugin
+		
 //CHUNK_BUILDSCRIPT_DEPENDENCIES_BEGIN
 //CHUNK_BUILDSCRIPT_DEPENDENCIES_END
     }
@@ -91,9 +92,10 @@ android {
         aaptOptions {
             ignoreAssetsPattern "!.svn:!.git:!.ds_store:!*.scc:<dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"
         }
-
+		
         // Feel free to modify the application id to your own.
-        applicationId getExportPackageName()
+		//applicationId "com.xiaofenyu.travel"
+       applicationId getExportPackageName()
         minSdkVersion versions.minSdk
         targetSdkVersion versions.targetSdk
 //CHUNK_ANDROID_DEFAULTCONFIG_BEGIN
