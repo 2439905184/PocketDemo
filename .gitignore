@@ -4,4 +4,5 @@
 *.dex
 !android/
 android/build/
+android/plugins/
 备份/
