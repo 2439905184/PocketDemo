@@ -48,4 +48,3 @@ func on_Reward():
 func on_RewardClosed():
 	OS.alert("关闭了激励视频")
 	pass
-
