@@ -23,7 +23,7 @@ margin_top = 270.732
 margin_right = 404.911
 margin_bottom = 284.732
 custom_fonts/font = ExtResource( 2 )
-text = "state?"
+text = "状态"
 __meta__ = {
 "_edit_use_anchors_": false
 }
@@ -104,9 +104,10 @@ text = "奖励视频广告测试"
 __meta__ = {
 "_edit_use_anchors_": false
 }
+
 [connection signal="pressed" from="GetPlugin" to="." method="_on_GetPlugin_pressed"]
 [connection signal="pressed" from="init" to="." method="_on_init_pressed"]
 [connection signal="pressed" from="showAd" to="." method="_on_showad_pressed"]
-[connection signal="pressed" from="showBanner" to="." method="_on_showBanner_pressed"]
 [connection signal="pressed" from="showNativeAd" to="." method="_on_showNativeAd_pressed"]
+[connection signal="pressed" from="showFullAd" to="." method="_on_showFullAd_pressed"]
 [connection signal="pressed" from="showRewardVideoAd" to="." method="_on_showRewardVideoAd_pressed"]

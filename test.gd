@@ -12,12 +12,16 @@ func _on_GetPlugin_pressed():
 		#当可以获得奖励时
 		I_aar.connect("VideoReward",self,"on_Reward")
 		I_aar.connect("VideoClosed",self,"on_RewardClosed")
+		I_aar.connect("staticAdFailed",self,"_on_InterAdFailed")
+		I_aar.connect("nativeAdClosed",self,"_on_showFullAd_closed")
+		I_aar.connect("nativeAdFailed",self,"_on_showFullAd_failed")
 	else:
 		OS.alert("不存在单利")
 	pass 
-#横幅广告加载失败
-func InterAdFailed():
-	$state.text="state:failed"
+#静态广告加载失败
+func _on_InterAdFailed():
+	$state.text="静态广告加载失败"
+	OS.alert("静态广告加载失败")
 	pass
 func _on_init_pressed():
 	I_aar.init()
@@ -28,11 +32,6 @@ func _on_showad_pressed():
 	I_aar.showInterAd()
 	pass # Replace with function body.
 
-#横幅广告
-func _on_showBanner_pressed():
-	#I_aar.showBanner()
-	pass # Replace with function body.
-
 #信息流广告
 func _on_showNativeAd_pressed():
 	I_aar.showNativeAd()
@@ -41,10 +40,26 @@ func _on_showNativeAd_pressed():
 #激励视频广告
 func _on_showRewardVideoAd_pressed():
 	I_aar.showRewardVideoAd()
-	pass # Replace with function body.
+	pass 
 func on_Reward():
 	OS.alert("获得激励视频的奖励")
 	pass
 func on_RewardClosed():
 	OS.alert("关闭了激励视频")
+	pass
+#播放全屏广告
+func _on_showFullAd_pressed():
+	I_aar.showNativeAd()
+	pass 
+func _on_showFullAd_closed():
+	alert_closed("全屏广告")
+	pass
+func _on_showFullAd_failed():
+	alert_failed("全屏广告")
+	pass
+func alert_closed(ad_type:String):
+	OS.alert(ad_type+"广告被关闭")
+	pass
+func alert_failed(ad_type:String):
+	OS.alert(ad_type+"广告播放失败")
 	pass
