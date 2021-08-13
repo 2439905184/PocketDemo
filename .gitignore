@@ -2,7 +2,6 @@
 *.class
 *.json
 *.dex
-android/
-build/
-
+!android/
+android/build/
 
