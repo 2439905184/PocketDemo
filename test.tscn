@@ -108,6 +108,7 @@ __meta__ = {
 [connection signal="pressed" from="GetPlugin" to="." method="_on_GetPlugin_pressed"]
 [connection signal="pressed" from="init" to="." method="_on_init_pressed"]
 [connection signal="pressed" from="showAd" to="." method="_on_showad_pressed"]
+[connection signal="pressed" from="showBanner" to="." method="_on_showBanner_pressed"]
 [connection signal="pressed" from="showNativeAd" to="." method="_on_showNativeAd_pressed"]
 [connection signal="pressed" from="showFullAd" to="." method="_on_showFullAd_pressed"]
 [connection signal="pressed" from="showRewardVideoAd" to="." method="_on_showRewardVideoAd_pressed"]

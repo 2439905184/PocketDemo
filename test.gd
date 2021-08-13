@@ -63,3 +63,6 @@ func alert_closed(ad_type:String):
 func alert_failed(ad_type:String):
 	OS.alert(ad_type+"广告播放失败")
 	pass
+func _on_showBanner_pressed():
+	I_aar.showBannerAd()
+	pass
